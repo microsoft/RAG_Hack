@@ -1,0 +1,63 @@
+name: Project Submission
+description: "Share your project with us to get a digital badge and win exciting prizes!"
+title: "Project: <short description>"
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Project name
+      description: Name of your project
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Provide a short description of your AI chat app. What data sources did you use? Did you make additional modifications to the data ingestion or prompting flows? Who can benefit from your app?
+    validations:
+      required: true
+  - type: input
+    id: description_lan
+    attributes:
+      label: Language
+      description: What language does your chat app use? (English, Spanish, Portuguese, Chinese, etc.)
+    validations:
+      required: true
+  - type: input
+    id: url_repo
+    attributes:
+      label: Project Repository URL
+      description: URL of the GitHub repo with your project
+    validations:
+      required: true
+  - type: input
+    id: url_endpoint
+    attributes:
+      label: Deployed Endpoint URL
+      description: URL of a deployed endpoint (if it can be publicly shared, not for private data)
+    validations:
+      required: false
+  - type: input
+    id: video
+    attributes:
+      label: Project video
+      description: A short demo video of your project
+    validations:
+      required: true
+  - type: input
+    id: teammembers
+    attributes:
+      label: Team members
+      description: Comma-separated list of GitHub users who worked on this project
+    validations:
+      required: true
+  - type: dropdown
+    id: showcase
+    attributes:
+      label: Showcase Consent
+      description: Do we have your consent to highlight this project during the Project Showcase session on 2/12? Not all projects are guaranteed to be highlighted.
+      options:
+        - "No"
+        - "Yes"
+    validations:
+      required: true
