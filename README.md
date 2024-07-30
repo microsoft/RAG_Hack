@@ -1,87 +1,78 @@
-# Hack Together: The AI Chat App Hack
+# RAGHack: Let's build RAG applications together
 
-![# Hack Together: The AI Chat App Hack](./media/Python%20Hack%20Banner%202.png)
+🛠️ Build, innovate, and learn together!🛠️ It's time to start building AI applications using the power of RAG (Retrieval Augmented Generation). 🤖 + 📚 = 🔥
 
+Large language models are powerful language generators, but they don't know everything about the world. RAG (Retrieval Augmented Generation) combines the power of large language models with the knowledge of a search engine. This allows you to ask questions of your own data, and get answers that are relevant to the context of your question. Across 25+ live streams, we'll show you how to build RAG apps on top of Azure AI in multiple languages (Python, Java, JS, C#) with multiple retrievers (AI Search, PostgreSQL, Azure SQL, Cosmos DB), with your own data sources! We'll cover the most popular frameworks, like Langchain and Semantic Kernel, and include the latest technology, like agents and vision models.
 
-## Introduction
+The streams start on **September 3rd** and ends on **September 13th**. Join us!
 
-🛠️ Build, innovate, and **#HackTogether**!🛠️ It's time to get started building your first AI Chat App, using the power of RAG (Retrieval Augmented Generation). 🤖 + 📚 = 🔥
+## Stream schedule
 
-GPT models are powerful language generators, but they don't know everything about the world. RAG (Retrieval Augmented Generation) combines the power of GPT with the knowledge of a search engine. This allows you to ask questions of your own data, and get answers that are relevant to the context of your question. We'll show you how to build a RAG Chat App using Azure OpenAI, Azure AI Search, and Python, and extend it for your own data sources.
+### English
 
-Hack Together is your playground for coding and experimenting with RAG Chat Apps. With mentorship from Microsoft experts and access to the latest tech, you will learn how to build apps using the most exciting technology - LLMs and vector search databases! The possibilities are endless for what you can create... plus you can submit your hack for a chance to win exciting prizes! 🥳
+#### Week 1: September 3rd-6th
 
-The hackathon starts on **January 29th**  and ends on **February 12th**. It is recommended for participants to follow the Hack Together Roadmap for a successful hackathon.
+| Day/time              | Topic                 |
+| --------------------- | ---------------------- |
+| 9/3, 04:30 PM UTC     | RAG 101                | 
+| 9/3, 06:00 PM UTC     | RAG with .NET |
+| 9/3, 08:00 PM UTC     | RAG with Azure AI Studio |
+| 9/3, 10:00 PM UTC     | RAG with Python |
+| 9/4, 03:00 AM UTC     | RAG with Langchain4J     |
+| 9/4, 03:00 AM UTC     | RAG with JavaScript      |
+| 9/5, 05:00 PM UTC     | RAG on Cosmos DB MongoDB |
+| 9/5, 07:00 PM UTC     | RAG with Azure AI Search | 
+| 9/5, 09:00 PM UTC     | RAG on PostgreSQL        |
+| 9/5, 11:00 PM UTC     | RAG on Azure SQL Server  |
 
-## Hack Together Roadmap 🗺️
+#### Week 2: September 9th-13th
 
-![AI Chat App Hack Roadmap (2)](./media/Chat%20App%20roadmap.png)
+| Day/time              | Topic                  |
+| --------------------- | ---------------------- |
+| 9/9, 03:00 PM UTC     | RAG with Java + Semantic Kernel | 
+| 9/9, 05:00 PM UTC     | RAG with Java + Spring AI       |
+| 9/9, 08:00 PM UTC     | RAG with vision models          |
+| 9/9, 11:00 PM UTC     | Internationalization for RAG apps |
+| 9/10, 05:00 PM UTC    | Langchain for agentic RAG         |
+| 9/10, 08:00 PM UTC    | OpenAI Code Interpreter for Java  |
+| 9/10, 10:00 PM UTC    | OpenAI Code Interpreter for Python |
+| 9/11, 03:00 PM UTC    | Responsible AI |
+| 9/11, 08:00 PM UTC    | RAG with Data Access Control |
+| 9/11, 10:00 PM UTC    | RAFT: (RAG + Fine Tuning) in Azure AI Studio |
+| 9/12, 04:00 AM UTC    | Pick the right model for the right job | 
+| 9/12, 08:00 PM UTC    | Evaluating your RAG Chat App |
 
-Follow the steps below to successfully complete the hackathon.
+### Spanish
 
-### #00 - Pre-requisites
+| Day/time              | Topic                  |
+| --------------------- | ---------------------- |
+| 9/9, 03:00 PM UTC     | RAG 101                |
 
-**Register to Hack Together:** [Register Here](https://aka.ms/hacktogether/chatapp/register)
+### Portuguese
 
-**Introduce yourself**, we'd like to get to know you! 🥳 [GitHub Discussions | Let's get to know each other 🎉](https://github.com/microsoft/AI-Chat-App-Hack/discussions)
+| Day/time              | Topic                  |
+| --------------------- | ---------------------- |
+| 9/9, 03:00 PM UTC     | RAG 101                |
+| 9/12, TBD UTC         | RAG in Azure AI Studio |
 
-**Apply for Azure OpenAI access**: Request access with [this form](https://aka.ms/oaiapply). If your access request isn't approved, you can instead use [OpenAI public API](https://platform.openai.com/docs/api-reference/introduction) or a local LLM.
+### Chinese
 
-### #01 - Start hacking on January 29th
-
-Either team up (max 3 team members) or fly solo to join the hacking! Make sure to [register for Hack Together]([https://aka.ms/hacktogether/chatapp/register]) before starting to build your project.
-
-### #02 - Join the English language live sessions for learning, inspiration, and lots of fun!
-
-[![Calendar Invite](https://img.shields.io/badge/ADD%20TO%20CALENDAR-4285F4?style=for-the-badge&label=&labelColor=555555&logoColor=white&logo=googlecalendar)](https://1drv.ms/u/s!AtTck50FZEppgrweyAUWYJ-wyeVU_g?e=a2JysE)
-
-**Here is a playlist of all the completed sessions: [YouTube Playlist](https://www.youtube.com/playlist?list=PL5lwDBUC0ag6_dGZst5m3G72ewfwXLcXV)**
-
-* **Mon 1/29/2024 10:00 AM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231120T220000&p1=1244) - Join live:** [Building a RAG Chat App in Python](https://aka.ms/hacktogether/chatapp/session1) ([Slides](https://speakerdeck.com/pamelafox/ai-chat-app-hack-building-a-rag-chat-app))
-* **Mon 1/29/2024 3:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231120T220000&p1=1244) - Join live:** [Connecting a RAG Chat App to Azure Cosmos DB](https://aka.ms/hacktogether/chatapp/session2) ([Slides](https://speakerdeck.com/kmodi/connecting-a-rag-chat-app-to-azure-cosmos-db))
-* **Tue 1/30/2024 9:30 AM PST  [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231127T190000&p1=1244) - Join live:** [Customizing your RAG Chat App](https://aka.ms/hacktogether/chatapp/session3) ([Slides](https://speakerdeck.com/pamelafox/customizing-your-rag-chat-app))
-* **Wed 1/31/2024 1:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231127T190000&p1=1244) - Join live:** [Azure AI Search Best Practices](https://aka.ms/hacktogether/chatapp/session4) ([Slides](https://speakerdeck.com/pamelafox/azure-ai-search-best-practices-for-rag-chat-apps))
-* **Thu 2/1/2024 2:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231128T220000&p1=1244) - Join live:** [GPT-4 with Vision](https://aka.ms/hacktogether/chatapp/session5) ([Demo Repo](https://github.com/mattgotteiner/AI-Chat-App-Hack-Vision))
-* **Mon 2/5/2024 7:00 AM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [RAG Chat Web Components](https://aka.ms/hacktogether/chatapp/session6) ([Slides](https://speakerdeck.com/sinedied/ai-chat-in-javascript-with-web-components))
-* **Mon 2/5/2024 11:00 AM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Access Control in RAG Chat Apps](https://aka.ms/hacktogether/chatapp/session7) ([Blog Post](https://aka.ms/ragaccess))
-* **Tue 2/6/2024 11:00 AM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Evaluating a RAG Chat App](https://aka.ms/hacktogether/chatapp/session8) ([Slides](https://speakerdeck.com/pamelafox/ai-chat-app-hack-evaluating-a-chat-app))
-* **Wed 2/7/2024 4:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Chat Completion API Tools & Functions in RAG Chat Apps](https://aka.ms/hacktogether/chatapp/session9) ([Resources](https://github.com/microsoft/AI-Chat-App-Hack/discussions/73))
-* **Thu 2/8/2024 11:00 AM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Continuous Deployment of your Chat App](https://aka.ms/hacktogether/chatapp/session10) ([Slides](https://speakerdeck.com/pamelafox/ai-chat-app-hack-continuous-deployment-of-your-chat-app))
-* **Fri 2/9/2024 9:00 AM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Content Safety for Azure OpenAI](https://aka.ms/hacktogether/chatapp/mvp/session1) ([Slides](https://speakerdeck.com/veroni4ka/content-safety-for-azure-openai))
-* **Fri 2/9/2024 10:00 AM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Building a Chat on your Business Data without writing a line of code](https://aka.ms/hacktogether/chatapp/mvp/session2) ([Resources](https://github.com/microsoft/AI-Chat-App-Hack/discussions/88))
-* **Mon 2/12/2024 2:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Project Showcase](https://aka.ms/hacktogether/chatapp/session11) ([Projects](https://github.com/microsoft/AI-Chat-App-Hack/issues))
-
-### #03 - Also, don’t miss out on our amazing regional live sessions!
-
-**Hack Together - The AI Chat App Hack en Español:**
-* **Wed 1/31/2024 9:00 PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [En Español Session #1](https://developer.microsoft.com/pt-br/reactor/events/21651/)
-* **Fri 2/2/2024 9:00 PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [En Español Session #2](https://developer.microsoft.com/pt-br/reactor/events/21652/)
-
-**Hack Together - The AI Chat App Hack em Português:**
-* **Mon 2/5/2024 2:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Em Português Session #1](https://aka.ms/hacktogether/chatapp/portuguese/session1)
-* **Tue 2/6/2024 2:00 PM PST [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Em Português Session #2](https://aka.ms/hacktogether/chatapp/portuguese/session2)
-
-**Hack Together - 人工智能聊天应用程序黑客 (Chinese):**
-
-* **Mon 1/29/2024** [Session #1](https://www.bilibili.com/video/BV1ay421a77h/)
-* **Fri 2/2/2024** [Session #2](https://www.bilibili.com/video/BV1Bv421C7Dv/)
+| Day/time              | Topic                  |
+| --------------------- | ---------------------- |
+| 9/9, 04:30 AM UTC     | RAG 101                |
 
 
-### #04 - Submit your project anytime before February 12th 23:59 PM PST
-
-You may submit your project here when it's ready: **🚀 [Project Submission](https://github.com/microsoft/AI-Chat-App-Hack/issues/new?assignees=&labels=&projects=&template=project.yml&title=Project%3A+%3Cshort+description%3E)**
-
-Check out this video for step by step project submission guidance:
-**[Project Submission Video](https://github.com/microsoft/hack-together-teams/assets/3199282/572ea387-61ec-4b77-9885-23b5b2bd39bd)**
+## RAG Code Samples
 
 
-## Code samples to get you started ✨
-
-Most of our live streams will showcase this app solution, which uses a Python backend and React frontend:
-
-[https://github.com/Azure-Samples/azure-search-openai-demo/](https://github.com/Azure-Samples/azure-search-openai-demo/)
-
-However, you are free to use any language or framework you like, as long as you make an AI RAG Chat App using at least one Azure service.
+| Repository            | Language/retriever     |
+| --------------------- | ---------------------- |
+| [azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo/) | Python, Azure AI Search |
+| [azure-search-openai-demo-java](https://github.com/Azure-Samples/azure-search-openai-demo-java/) | Java, Azure AI Search |
+| [azure-search-openai-javascript](https://github.com/Azure-Samples/azure-search-openai-javascript) | JavaScript, Azure AI Search |
+| [azure-search-openai-demo-csharp](https://github.com/Azure-Samples/azure-search-openai-demo-csharp) | C#, Azure AI Search |
+| [rag-postgres-openai-python](https://github.com/Azure-Samples/rag-postgres-openai-python/) | Python, PostgreSQL | 
+| [Cosmic-Food-RAG-app](https://github.com/Azure-Samples/Cosmic-Food-RAG-app) | Python, Cosmos DB MongoDB |
 
 To find more samples, check out the following resources:
 
@@ -91,10 +82,8 @@ To find more samples, check out the following resources:
 * [Azure AI samples (C#)](https://learn.microsoft.com/en-us/azure/developer/intro/azure-ai-for-developers?pivots=csharp)
 * [Azure AI samples (Go)](https://learn.microsoft.com/en-us/azure/developer/intro/azure-ai-for-developers?pivots=go)
 
-
 ## Recommended learning materials 📚
 
-### AI
 
 * [AI learning and community hub](https://learn.microsoft.com/en-us/ai/)
 * [Cloud skills challenge: Using Azure OpenAI Service](https://learn.microsoft.com/collections/20mirj4odnj6o)
@@ -109,18 +98,3 @@ To find more samples, check out the following resources:
 * [Azure Communication Services Chat SDK](https://aka.ms/chathack-acs)
 * [AI-in-a-Box](https://github.com/Azure/AI-in-a-Box)
 * [Join the Azure AI Discord!](https://aka.ms/AzureAI/Discord)
-
-## Judging and Prizes 🏆
-
-Projects will be evaluated by a panel of judges, including Microsoft engineers, product managers, and developer advocates. Judging criteria will include innovation, impact, technical usability, and alignment with corresponding hackathon category.
-
-Each winning team in the categories below will receive a cash price of $500. 💸
-
-* **Best overall**: The best app will combine both a compelling data source and significant refinements to the RAG flow to improve the user experience and LLM answer quality.
-<!-- * **Best use of GPT-4-vision**: Showcase how LLMs can help answer questions about image-heavy data sources.-->
-* **Best data source**: Bring in a data source that makes for such a compelling chat that we wonder how we ever survived without it.
-* **Best in your own language**: Show us a RAG Chat App that uses non-English data sources. Bonus points for documenting any improvements you had to make to improve search and LLM performance for your app's language.
-<!-- * **Best open-source contribution**: Submit a pull request that improves the [primary repository](https://github.com/Azure-Samples/azure-search-openai-demo/). Consider which issues are already filed and which changes are generally helpful for all RAG chat apps. We will not necessarily merge all pull requests, but we love to see contributions.-->
-* **Most helpful community member**: We're looking for hackers that are super engaged in the streams, answering other participant's questions in the forums and issue trackers, contributing code improvements, and are generally bringing good vibes to our Hack Together. 🥰
-
-**🏅 All hackathon participants who submit an app will receive a digital badge.**
