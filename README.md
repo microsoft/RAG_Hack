@@ -102,7 +102,7 @@ To find more samples, check out the following resources:
 ## Prizes and Categories 🏅
 
 
-* Each winning team in the categories below will receive a cash price of $500. 💸
+Each winning team in the categories below will receive a cash price of $500. 💸
 
 * Best overall: The best app will combine both a compelling data source and significant refinements to the RAG flow to improve the user experience and LLM answer quality.
 * Best in JavaScript
