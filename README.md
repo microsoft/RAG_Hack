@@ -98,3 +98,21 @@ To find more samples, check out the following resources:
 * [Azure Communication Services Chat SDK](https://aka.ms/chathack-acs)
 * [AI-in-a-Box](https://github.com/Azure/AI-in-a-Box)
 * [Join the Azure AI Discord!](https://aka.ms/AzureAI/Discord)
+
+## Prizes and Categories 🏅
+
+
+Each winning team in the categories below will receive a cash price of $500. 💸
+
+* Best overall: The best app will combine both a compelling data source and significant refinements to the RAG flow to improve the user experience and LLM answer quality.
+* Best in JavaScript
+* Best in Java
+* Best in .NET
+* Best in Python
+* Best use of AI Studio
+* Best use of AI Search
+* Best use of PostgreSQL
+* Best use of Cosmos DB
+* Best use of Azure SQL
+
+All hackathon participants who submit an app will receive a digital badge.
