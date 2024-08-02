@@ -24,6 +24,7 @@ The streams start on **September 3rd** and ends on **September 13th**. Join us!
 | 9/5, 07:00 PM UTC     | RAG with Azure AI Search | [Register](https://reactor.microsoft.com/en-us/reactor/events/23330/) | 
 | 9/5, 09:00 PM UTC     | RAG on PostgreSQL        | [Register](https://reactor.microsoft.com/en-us/reactor/events/23331/) |
 | 9/5, 11:00 PM UTC     | RAG on Azure SQL Server  | [Register](https://reactor.microsoft.com/en-us/reactor/events/23332/) |
+| 9/6, 09:00 AM UTC     | RAG + GraphRAG           | |
 
 #### Week 2: September 9th-13th
 
@@ -46,15 +47,15 @@ The streams start on **September 3rd** and ends on **September 13th**. Join us!
 
 | Day/time              | Topic   | Reactor | 
 | --------------------- | ------- | ------- |
-| 9/9, 03:00 PM UTC     | RAG 101 | [Register](https://developer.microsoft.com/en-us/reactor/events/23386/) |
+| 9/9, 03:00 PM UTC     | RAG: Generación Aumentada de Recuperación | [Register](https://developer.microsoft.com/en-us/reactor/events/23386/) |
 
 ### Portuguese
 
 | Day/time              | Topic                  |
 | --------------------- | ---------------------- |
-| 9/9, 03:00 PM UTC     | RAG 101                |
-| 9/12, TBD UTC         | RAG in Azure AI Studio |
-| 9/13, 
+| 9/9, 03:00 PM UTC     | RAG (Geração Aumentada de Busca) no Azure      |
+| 9/12, TBD UTC         | Construindo RAG com Azure AI Studio e Python   |
+| 9/13,                 | Implantando RAG com .NET e Azure Developer CLI |
 
 ### Chinese
 
