@@ -12,18 +12,18 @@ The streams start on **September 3rd** and ends on **September 13th**. Join us!
 
 #### Week 1: September 3rd-6th
 
-| Day/time              | Topic                 |
-| --------------------- | ---------------------- |
-| 9/3, 04:30 PM UTC     | RAG 101                | 
-| 9/3, 06:00 PM UTC     | RAG with .NET |
-| 9/3, 08:00 PM UTC     | RAG with Azure AI Studio |
-| 9/3, 10:00 PM UTC     | RAG with Python |
-| 9/4, 03:00 AM UTC     | RAG with Langchain4J     |
-| 9/4, 03:00 AM UTC     | RAG with JavaScript      |
-| 9/5, 05:00 PM UTC     | RAG on Cosmos DB MongoDB |
-| 9/5, 07:00 PM UTC     | RAG with Azure AI Search | 
-| 9/5, 09:00 PM UTC     | RAG on PostgreSQL        |
-| 9/5, 11:00 PM UTC     | RAG on Azure SQL Server  |
+| Day/time              | Topic                    | Reactor | 
+| --------------------- | ------------------------ |  ------- |
+| 9/3, 04:30 PM UTC     | RAG 101                  | [Register](https://reactor.microsoft.com/en-us/reactor/events/23299/) |
+| 9/3, 06:00 PM UTC     | RAG with .NET            | [Register](https://reactor.microsoft.com/en-us/reactor/events/23333/) |
+| 9/3, 08:00 PM UTC     | RAG with Azure AI Studio | [Register](https://reactor.microsoft.com/en-us/reactor/events/23334/) | 
+| 9/3, 10:00 PM UTC     | RAG with Python          | [Register](https://reactor.microsoft.com/en-us/reactor/events/23335/) |
+| 9/4, 03:00 AM UTC     | RAG with Langchain4J     | [Register](https://reactor.microsoft.com/en-us/reactor/events/23327/) |
+| 9/4, 03:00 AM UTC     | RAG with LangchainJS     | [Register](https://reactor.microsoft.com/en-us/reactor/events/23328/) | 
+| 9/5, 05:00 PM UTC     | RAG on Cosmos DB MongoDB | [Register](https://reactor.microsoft.com/en-us/reactor/events/23329/) | 
+| 9/5, 07:00 PM UTC     | RAG with Azure AI Search | [Register](https://reactor.microsoft.com/en-us/reactor/events/23330/) | 
+| 9/5, 09:00 PM UTC     | RAG on PostgreSQL        | [Register](https://reactor.microsoft.com/en-us/reactor/events/23331/) |
+| 9/5, 11:00 PM UTC     | RAG on Azure SQL Server  | [Register](https://reactor.microsoft.com/en-us/reactor/events/23332/) |
 
 #### Week 2: September 9th-13th
 
@@ -44,9 +44,9 @@ The streams start on **September 3rd** and ends on **September 13th**. Join us!
 
 ### Spanish
 
-| Day/time              | Topic                  |
-| --------------------- | ---------------------- |
-| 9/9, 03:00 PM UTC     | RAG 101                |
+| Day/time              | Topic   | Reactor | 
+| --------------------- | ------- | ------- |
+| 9/9, 03:00 PM UTC     | RAG 101 | [Register](https://developer.microsoft.com/en-us/reactor/events/23386/) |
 
 ### Portuguese
 
@@ -54,6 +54,7 @@ The streams start on **September 3rd** and ends on **September 13th**. Join us!
 | --------------------- | ---------------------- |
 | 9/9, 03:00 PM UTC     | RAG 101                |
 | 9/12, TBD UTC         | RAG in Azure AI Studio |
+| 9/13, 
 
 ### Chinese
 
