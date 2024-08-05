@@ -61,7 +61,10 @@ The streams start on **September 3rd** and ends on **September 13th**. Join us!
 
 | Day/time              | Topic                  |
 | --------------------- | ---------------------- |
-| 9/9, 04:30 AM UTC     | RAG 101                |
+| 9/9, 04:30 AM UTC     | [Global RAG Hack Together](https://www.huodongxing.com/event/7767646570723) |
+| 9/10, TBD             | Using Azure AI SDK for RAG app |
+| 9/12, TBD             | Using AI Tools to create RAG app |
+| 9/14, TBD             | Introducing GraphRAG |
 
 
 ## RAG Code Samples
