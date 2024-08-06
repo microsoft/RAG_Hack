@@ -2,7 +2,7 @@
 
 🛠️ Build, innovate, and learn together!🛠️ It's time to start building AI applications using the power of RAG (Retrieval Augmented Generation). 🤖 + 📚 = 🔥
 
-Large language models are powerful language generators, but they don't know everything about the world. RAG (Retrieval Augmented Generation) combines the power of large language models with the knowledge of a search engine. This allows you to ask questions of your own data, and get answers that are relevant to the context of your question. Across 25+ live streams, we'll show you how to build RAG apps on top of Azure AI in multiple languages (Python, Java, JS, C#) with multiple retrievers (AI Search, PostgreSQL, Azure SQL, Cosmos DB), with your own data sources! We'll cover the most popular frameworks, like Langchain and Semantic Kernel, and include the latest technology, like agents and vision models.
+Large language models are powerful language generators, but they don't know everything about the world. RAG (Retrieval Augmented Generation) combines the power of large language models with the knowledge of a search engine. This allows you to ask questions of your own data, and get answers that are relevant to the context of your question. Across 25+ live streams, we'll show you how to build RAG apps on top of Azure AI in multiple languages (Python, Java, JS, C#) with multiple retrievers (AI Search, PostgreSQL, Azure SQL, Cosmos DB), with your own data sources! We'll cover the most popular frameworks, like LangChain and Semantic Kernel, and include the latest technology, like agents and vision models.
 
 The streams start on **September 3rd** and ends on **September 13th**. Join us!
 
@@ -119,5 +119,5 @@ Each winning team in the categories below will receive a cash price of $500. �
 * Best use of PostgreSQL
 * Best use of Cosmos DB
 * Best use of Azure SQL
-
-All hackathon participants who submit an app will receive a digital badge.
+<!-- 
+All hackathon participants who submit an app will receive a digital badge. -->
