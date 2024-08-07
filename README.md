@@ -1,6 +1,6 @@
 # RAGHack: Let's build RAG applications together
 
-<img width="1599" alt="RAG AI Hack Banner (5)" src="https://github.com/user-attachments/assets/21521ae4-61d4-425a-b370-be61c86657c6">
+<img width="1599" alt="RAG AI Hack Banner (6)" src="https://github.com/user-attachments/assets/fbd0cc5a-75e7-4f7e-bc57-f23c4f0b3f23">
 
 
 🛠️ Build, innovate, and learn together!🛠️ It's time to start building AI applications using the power of RAG (Retrieval Augmented Generation). 🤖 + 📚 = 🔥
