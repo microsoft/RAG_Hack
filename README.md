@@ -29,7 +29,7 @@ Registration will open soon! Come back here for the link in a few days.
 | 9/3, 10:00 PM UTC     | [RAG with Python](https://reactor.microsoft.com/reactor/events/23335/) |
 | 9/4, 03:00 AM UTC     | [RAG with Langchain4J](https://reactor.microsoft.com/reactor/events/23327/) |
 | 9/4, 03:00 AM UTC     | [RAG with LangchainJS](https://reactor.microsoft.com/reactor/events/23328/) | 
-| 9/5, 03:00 PM UTC     | Responsible AI |
+| 9/5, 03:00 PM UTC     | [Responsible AI](https://developer.microsoft.com/reactor/events/23343/) |
 | 9/5, 05:00 PM UTC     | [RAG on Cosmos DB MongoDB](https://reactor.microsoft.com/reactor/events/23329/) | 
 | 9/5, 07:00 PM UTC     | [RAG with Azure AI Search](https://reactor.microsoft.com/reactor/events/23330/) | 
 | 9/5, 09:00 PM UTC     | [RAG on PostgreSQL](https://reactor.microsoft.com/reactor/events/23331/) |
@@ -43,7 +43,7 @@ Registration will open soon! Come back here for the link in a few days.
 | 9/9, 03:00 PM UTC     | [RAG with Java + Semantic Kernel](https://reactor.microsoft.com/reactor/events/23337/) |
 | 9/9, 05:00 PM UTC     | [RAG with Java + Spring AI](https://reactor.microsoft.com/reactor/events/23363/) |
 | 9/9, 08:00 PM UTC     | [RAG with vision models](https://reactor.microsoft.com/reactor/events/23336/) |
-| 9/9, 11:00 PM UTC     | Internationalization for RAG apps |
+| 9/9, 11:00 PM UTC     | [Internationalization for RAG apps](https://developer.microsoft.com/reactor/events/23415/) |
 | 9/10, 05:00 PM UTC    | [Langchain for agentic RAG](https://reactor.microsoft.com/reactor/events/23338/) |
 | 9/10, 08:00 PM UTC    | [OpenAI Code Interpreter for Java](https://reactor.microsoft.com/reactor/events/23339/) |
 | 9/10, 10:00 PM UTC    | [OpenAI Code Interpreter for Python](https://reactor.microsoft.com/reactor/events/23340/) |
@@ -51,7 +51,7 @@ Registration will open soon! Come back here for the link in a few days.
 | 9/11, 08:00 PM UTC    | [RAG with Data Access Control](https://reactor.microsoft.com/reactor/events/23341/)
 | 9/11, 10:00 PM UTC    | [RAFT: (RAG + Fine Tuning) in Azure AI Studio](https://reactor.microsoft.com/en-us/reactor/events/23342/)
 | 9/12, 04:00 AM UTC    | Pick the right model for the right job |
-| 9/12, 08:00 PM UTC    | Evaluating your RAG Chat App |
+| 9/12, 08:00 PM UTC    | [Evaluating your RAG Chat App](https://reactor.microsoft.com/reactor/events/23414/) |
 
 ### Spanish
 
