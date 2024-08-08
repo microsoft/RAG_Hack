@@ -34,7 +34,7 @@ Registration will open soon! Come back here for the link in a few days.
 | 9/5, 07:00 PM UTC     | [RAG with Azure AI Search](https://reactor.microsoft.com/reactor/events/23330/) | 
 | 9/5, 09:00 PM UTC     | [RAG on PostgreSQL](https://reactor.microsoft.com/reactor/events/23331/) |
 | 9/5, 11:00 PM UTC     | [RAG on Azure SQL Server](https://reactor.microsoft.com/reactor/events/23332/) |
-| 9/6, 09:00 AM UTC     | RAG + GraphRAG |
+| 9/6, 09:00 AM UTC     | [Intro to GraphRAG](https://reactor.microsoft.com/reactor/events/23432/)
 
 #### Week 2: September 9th-13th
 
@@ -44,6 +44,7 @@ Registration will open soon! Come back here for the link in a few days.
 | 9/9, 05:00 PM UTC     | [RAG with Java + Spring AI](https://reactor.microsoft.com/reactor/events/23363/) |
 | 9/9, 08:00 PM UTC     | [RAG with vision models](https://reactor.microsoft.com/reactor/events/23336/) |
 | 9/9, 11:00 PM UTC     | [Internationalization for RAG apps](https://developer.microsoft.com/reactor/events/23415/) |
+| 9/10, 03:00 PM UTC    | [Use Phi-3 to create a VSCode chat agent extension](https://developer.microsoft.com/reactor/events/23434/)
 | 9/10, 05:00 PM UTC    | [Langchain for agentic RAG](https://reactor.microsoft.com/reactor/events/23338/) |
 | 9/10, 08:00 PM UTC    | [OpenAI Code Interpreter for Java](https://reactor.microsoft.com/reactor/events/23339/) |
 | 9/10, 10:00 PM UTC    | [OpenAI Code Interpreter for Python](https://reactor.microsoft.com/reactor/events/23340/) |
