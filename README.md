@@ -47,6 +47,7 @@ Registration will open soon! Come back here for the link in a few days.
 | 9/10, 05:00 PM UTC    | [Langchain for agentic RAG](https://reactor.microsoft.com/reactor/events/23338/) |
 | 9/10, 08:00 PM UTC    | [OpenAI Code Interpreter for Java](https://reactor.microsoft.com/reactor/events/23339/) |
 | 9/10, 10:00 PM UTC    | [OpenAI Code Interpreter for Python](https://reactor.microsoft.com/reactor/events/23340/) |
+| 9/11, 03:00 PM UTC    | [Connections in Azure AI Studio](https://developer.microsoft.com/en-us/reactor/events/23427/)
 | 9/11, 05:00 PM UTC    | [Explore AutoGen concepts with AutoGen Studio](https://reactor.microsoft.com/reactor/events/23395/) |
 | 9/11, 08:00 PM UTC    | [RAG with Data Access Control](https://reactor.microsoft.com/reactor/events/23341/)
 | 9/11, 10:00 PM UTC    | [RAFT: (RAG + Fine Tuning) in Azure AI Studio](https://reactor.microsoft.com/en-us/reactor/events/23342/)
@@ -63,9 +64,9 @@ Registration will open soon! Come back here for the link in a few days.
 
 | Day/time              | Topic                  |
 | --------------------- | ---------------------- |
-| 9/9, 03:00 PM UTC     | RAG (Geração Aumentada de Busca) no Azure      |
-| 9/12, TBD UTC         | Construindo RAG com Azure AI Studio e Python   |
-| 9/13,                 | Implantando RAG com .NET e Azure Developer CLI |
+| 9/9, 03:00 PM UTC     | [RAG (Geração Aumentada de Busca) no Azure](https://developer.microsoft.com/reactor/events/23429/)      |
+| 9/12, TBD UTC         | [Construindo RAG com Azure AI Studio e Python](https://developer.microsoft.com/reactor/events/23430/)   |
+| 9/13,                 | [Implantando RAG com .NET e Azure Developer CLI](https://developer.microsoft.com/reactor/events/23431/) |
 
 ### Chinese
 
