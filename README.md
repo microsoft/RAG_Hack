@@ -17,7 +17,7 @@ Registration will open soon! Come back here for the link in a few days.
 
 ## Official Rules
 
-Read the (official rules)[https://github.com/microsoft/RAG_Hack/blob/main/OFFICIAL_RULES.md] 📃
+Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICIAL_RULES.md) 📃
 
 ## Stream schedule
 
