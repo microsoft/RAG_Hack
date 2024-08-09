@@ -73,10 +73,10 @@ Registration will open soon! Come back here for the link in a few days.
 
 | Day/time              | Topic                  |
 | --------------------- | ---------------------- |
-| 9/9, 04:30 AM UTC     | [Global RAG Hack Together](https://www.huodongxing.com/event/7767646570723) |
-| 9/10, TBD             | Using Azure AI SDK for RAG app |
-| 9/12, TBD             | Using AI Tools to create RAG app |
-| 9/14, TBD             | Introducing GraphRAG |
+|  9/9, 12:30 PM UTC    | [Global RAG Hack Together](https://www.huodongxing.com/event/7767646570723) |
+| 9/10, 12:30 PM UTC    | [Create RAG apps with Azure AI SDK](https://hdxu.cn/LPHzY) |
+| 9/12, 12:30 PM UTC    | [Creae RAG applications with AI Toolkit VSCode Extension](https://hdxu.cn/zF74r) |
+| 9/14, 12:30 PM UTC    | [Intro to GraphRAG](https://hdxu.cn/moQUg) |
 
 
 ## RAG code samples
