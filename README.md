@@ -15,6 +15,10 @@ The hackathon starts on **September 3rd** and ends on **September 13th**. Join u
 
 Registration will open soon! Come back here for the link in a few days.
 
+## Official Rules
+
+Read the (official rules)[https://github.com/microsoft/RAG_Hack/blob/main/OFFICIAL_RULES.md] 📃
+
 ## Stream schedule
 
 ### English
