@@ -5,12 +5,15 @@ These are the official rules for Hack Together: RAG Hack.
 ## Official Rules
 
 **1.	SPONSOR**
+
 These Official Rules (“Rules”) govern the operation of the Hack Together: RAG Hack Contest (“Contest”). Microsoft Corporation, One Microsoft Way, Redmond, WA, 98052, USA, is the Contest sponsor (“Sponsor”).
 
 **2.	DEFINITIONS**
+
 In these Rules, “Microsoft,” “we,” “our,” and “us” refer to Sponsor and “you” and “yourself” refers to a Contest participant, or the parent/legal guardian of any Contest entrant who has not reached the age of majority to contractually obligate themselves in their legal place of residence. “Team” and “Teams” refers to a group of up to three (3) Contest participants working together to produce a single entry. By entering you (your parent/legal guardian if you are not the age of majority in your legal place of residence) agree to be bound by these Rules.
 
 **3.	ENTRY PERIOD**
+
 The Contest starts at 12:01 a.m. Pacific Time (PT) on September 3, 2024, and ends at 11:59 p.m. PT on September 13, 2024 (“Entry Period”).
 
 To enter, you must be eighteen (18) years of age or older. If you are eighteen (18) years of age or older but have not reached the age of majority in your legal place of residence, then you must have consent of a parent/legal guardian.
@@ -26,6 +29,7 @@ You are fully responsible for (i) the conduct of your Team Members; and (ii) the
 Employees and directors of Microsoft Corporation and its subsidiaries, affiliates, advertising agencies, and Contest Parties are not eligible, nor are persons involved in the execution or administration of this promotion, or the family members of each above (parents, children, siblings, spouse/domestic partners, or individuals residing in the same household). Void in Cuba, Iran, North Korea, Sudan, Syria, Region of Crimea, Russia, and where otherwise prohibited by law.
 
 **4. HOW TO ENTER**
+
 No Purchase Necessary.
 
 To enter, visit https://aka.ms/raghack to submit a project. By submitting a project, you will receive one (1) entry into the Sweepstakes drawing whether you are an individual or team. 
@@ -36,6 +40,7 @@ We are not responsible for excess, lost, late, or incomplete entries. If dispute
 
 
 **5. ELIGIBLE ENTRY**
+
 To be eligible, an entry must meet the following content/technical requirements:
 
 - Your entry must be your own original work; and
@@ -88,7 +93,8 @@ Each winning team in the categories below will receive a cash prize of $500 in t
 We will only award one (1) prize per person/Team during the Entry Period. No more than the stated number of prizes will be awarded. No substitution, transfer, or assignment of prize permitted, except that Microsoft reserves the right to substitute a prize of equal or greater value in the event the offered prize is unavailable. Except for applicable manufacturer’s limited warranties and any rights you may have under your local laws, prizes are awarded “AS IS” and WITHOUT WARRANTY OF ANY KIND, express or implied (including any implied warranty of merchantability or fitness for a particular purpose); you assume the entire risk of quality and performance, and should the prizes prove defective, you assume the entire cost of all necessary servicing or repair. Microsoft’s limited warranty terms can be found at https://support.microsoft.com/warranty, and specifically the U.S. warranty is here. Prizes will be sent no later than twenty-eight (28) days after winner selection. Prize winners may be required to complete and return prize claim and/or tax forms (“Forms”) within the deadline stated in the winner notification. Taxes on the prize, if any, are the sole responsibility of the winner, who is advised to seek independent counsel regarding the tax implications of accepting a prize. By accepting a prize, you agree that Microsoft may use your entry, name, image and hometown online and in print, or in any other media, in connection with this Contest without payment or compensation to you, except where prohibited by law.
 
 
- 
+ <img width="354" alt="fca504d0-f649-47d2-8f8e-3b28a7727b09" src="https://github.com/user-attachments/assets/0a94a365-b565-4cc1-81e9-02b3c2a8792a">
+
 
 Unfortunately, due to local payment laws, Sponsor is unable to provide any gratuity options to participants residing in the following regions: Uganda, Myanmar, Liberia, Haiti, Pakistan, Russia, Belarus, Burkina Faso, and Commonwealth of Dominica.
 
