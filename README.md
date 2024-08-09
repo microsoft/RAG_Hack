@@ -69,9 +69,9 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 
 | Day/time              | Topic                  |
 | --------------------- | ---------------------- |
-| 9/9, 03:00 PM UTC     | [RAG (Geração Aumentada de Busca) no Azure](https://developer.microsoft.com/reactor/events/23429/)      |
-| 9/12, TBD UTC         | [Construindo RAG com Azure AI Studio e Python](https://developer.microsoft.com/reactor/events/23430/)   |
-| 9/13,                 | [Implantando RAG com .NET e Azure Developer CLI](https://developer.microsoft.com/reactor/events/23431/) |
+|  9/9, 03:00 PM UTC    | [RAG (Geração Aumentada de Busca) no Azure](https://developer.microsoft.com/reactor/events/23429/)      |
+| 9/12, 03:00 PM UTC    | [Construindo RAG com Azure AI Studio e Python](https://developer.microsoft.com/reactor/events/23430/)   |
+| 9/13, 03:00 PM UTC    | [Implantando RAG com .NET e Azure Developer CLI](https://developer.microsoft.com/reactor/events/23431/) |
 
 ### Chinese
 
@@ -79,7 +79,7 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 | --------------------- | ---------------------- |
 |  9/9, 12:30 PM UTC    | [Global RAG Hack Together](https://www.huodongxing.com/event/7767646570723) |
 | 9/10, 12:30 PM UTC    | [Create RAG apps with Azure AI SDK](https://hdxu.cn/LPHzY) |
-| 9/12, 12:30 PM UTC    | [Creae RAG applications with AI Toolkit VSCode Extension](https://hdxu.cn/zF74r) |
+| 9/12, 12:30 PM UTC    | [Create RAG applications with AI Toolkit VSCode Extension](https://hdxu.cn/zF74r) |
 | 9/14, 12:30 PM UTC    | [Intro to GraphRAG](https://hdxu.cn/moQUg) |
 
 
@@ -103,6 +103,7 @@ To find more samples, check out the following resources:
 * [Azure AI samples (Java)](https://learn.microsoft.com/en-us/azure/developer/intro/azure-ai-for-developers?pivots=java)
 * [Azure AI samples (C#)](https://learn.microsoft.com/en-us/azure/developer/intro/azure-ai-for-developers?pivots=csharp)
 * [Azure AI samples (Go)](https://learn.microsoft.com/en-us/azure/developer/intro/azure-ai-for-developers?pivots=go)
+* [Azure AI Studio Samples](https://learn.microsoft.com/en-us/collections/5pq0uompdgje8d?sharingId=ADFFF9D4AD9A0F29&WT_mc.id=aip-114567-cassieb)
 
 ## Recommended learning materials 📚
 
