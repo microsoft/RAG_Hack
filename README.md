@@ -13,7 +13,7 @@ The hackathon starts on **September 3rd** and ends on **September 13th**. Join u
 
 ## Register
 
-Registration will open soon! Come back here for the link in a few days.
+Register for the hackthon on the [Reactor series page](https://reactor.microsoft.com/en-us/reactor/series/s-1369/). That will register you for both the streams and the hackathon.
 
 ## Official Rules
 
@@ -120,6 +120,14 @@ To find more samples, check out the following resources:
 * [Azure Communication Services Chat SDK](https://aka.ms/chathack-acs)
 * [AI-in-a-Box](https://github.com/Azure/AI-in-a-Box)
 * [Join the Azure AI Discord!](https://aka.ms/AzureAI/Discord)
+
+## Project submission
+
+You may submit your project here when it's ready:
+**🚀 [Project Submission](https://github.com/microsoft/RAG_Hack/issues/new?assignees=&labels=&projects=&template=project.yml&title=Project%3A+%3Cshort+description%3E)**
+
+Check out this video for step by step project submission guidance:
+**[Project Submission Video](https://github.com/microsoft/hack-together-teams/assets/3199282/572ea387-61ec-4b77-9885-23b5b2bd39bd)**
 
 ## Prizes and categories 🏅
 
