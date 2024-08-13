@@ -69,7 +69,7 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 
 | Day/time              | Topic                  |
 | --------------------- | ---------------------- |
-|  9/9, 03:00 PM UTC    | [RAG (Geração Aumentada de Busca) no Azure](https://developer.microsoft.com/reactor/events/23429/)      |
+|  9/3, 03:00 PM UTC    | [RAG (Geração Aumentada de Busca) no Azure](https://developer.microsoft.com/reactor/events/23429/)      |
 | 9/12, 03:00 PM UTC    | [Construindo RAG com Azure AI Studio e Python](https://developer.microsoft.com/reactor/events/23430/)   |
 | 9/13, 03:00 PM UTC    | [Implantando RAG com .NET e Azure Developer CLI](https://developer.microsoft.com/reactor/events/23431/) |
 
