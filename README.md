@@ -37,7 +37,7 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 | 9/5, 05:00 PM UTC     | [RAG on Cosmos DB MongoDB](https://reactor.microsoft.com/reactor/events/23329/) | 
 | 9/5, 07:00 PM UTC     | [RAG with Azure AI Search](https://reactor.microsoft.com/reactor/events/23330/) | 
 | 9/5, 09:00 PM UTC     | [RAG on PostgreSQL](https://reactor.microsoft.com/reactor/events/23331/) |
-| 9/5, 11:00 PM UTC     | [RAG on Azure SQL Server](https://reactor.microsoft.com/reactor/events/23332/) |
+| 9/5, 11:00 PM UTC     | [RAG on Azure SQL](https://reactor.microsoft.com/reactor/events/23332/) |
 | 9/6, 09:00 AM UTC     | [Intro to GraphRAG](https://reactor.microsoft.com/reactor/events/23432/)
 
 #### Week 2: September 9th-13th
