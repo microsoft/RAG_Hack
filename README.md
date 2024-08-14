@@ -13,13 +13,15 @@ The hackathon starts on **September 3rd** and ends on **September 13th**. Join u
 
 ## Register
 
-Register for the hackthon on the [Reactor series page](https://reactor.microsoft.com/en-us/reactor/series/s-1369/). That will register you for both the streams and the hackathon.
+Register for the hackathon on the [Reactor "RAG 101" session page](https://aka.ms/raghack/register). This will register you for both the first stream and the hackathon.
+
+Visit the [Reactor hack home page](https://reactor.microsoft.com/en-us/reactor/series/s-1369/) to see all sessions!
 
 ## Official Rules
 
 Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICIAL_RULES.md) 📃
 
-## Stream schedule
+## Stream Schedule
 
 ### English
 
@@ -84,7 +86,7 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 | 9/14, 12:30 PM UTC    | [Intro to GraphRAG](https://hdxu.cn/moQUg) |
 
 
-## RAG code samples
+## RAG Code Samples
 
 
 | Repository            | Language/retriever     |
@@ -106,7 +108,7 @@ To find more samples, check out the following resources:
 * [Azure AI samples (Go)](https://learn.microsoft.com/en-us/azure/developer/intro/azure-ai-for-developers?pivots=go)
 * [Azure AI Studio Samples](https://learn.microsoft.com/en-us/collections/5pq0uompdgje8d?sharingId=ADFFF9D4AD9A0F29&WT_mc.id=aip-114567-cassieb)
 
-## Recommended learning materials 📚
+## Recommended Learning Materials 📚
 
 * [AI learning and community hub](https://learn.microsoft.com/en-us/ai/)
 * [Cloud skills challenge: Using Azure OpenAI Service](https://learn.microsoft.com/collections/20mirj4odnj6o)
@@ -122,7 +124,7 @@ To find more samples, check out the following resources:
 * [AI-in-a-Box](https://github.com/Azure/AI-in-a-Box)
 * [Join the Azure AI Discord!](https://aka.ms/AzureAI/Discord)
 
-## Project submission
+## Project Submission
 
 You may submit your project here when it's ready:
 **🚀 [Project Submission](https://github.com/microsoft/RAG_Hack/issues/new?assignees=&labels=&projects=&template=project.yml&title=Project%3A+%3Cshort+description%3E)**
@@ -130,7 +132,7 @@ You may submit your project here when it's ready:
 Check out this video for step by step project submission guidance:
 **[Project Submission Video](https://github.com/microsoft/hack-together-teams/assets/3199282/572ea387-61ec-4b77-9885-23b5b2bd39bd)**
 
-## Prizes and categories 🏅
+## Prizes and Categories 🏅
 
 Projects will be evaluated by a panel of judges, including Microsoft engineers, product managers, and developer advocates. Judging criteria will include innovation, impact, technical usability, and alignment with corresponding hackathon category.
 
