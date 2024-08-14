@@ -63,7 +63,8 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 
 | Day/time              | Topic   |
 | --------------------- | ------- |
-| 9/9, 03:00 PM UTC     | [RAG: Generación Aumentada de Recuperación](https://developer.microsoft.com/en-us/reactor/events/23386/) |
+| 9/3, 03:00 PM UTC     | [RAG: Generación Aumentada de Recuperación](https://developer.microsoft.com/reactor/events/23386/) |
+| 9/4, 03:00 PM UTC     | [RAG: Prácticas recomendadas de Azure AI Search](https://developer.microsoft.com/reactor/series/S-1379/) |
 
 ### Portuguese
 
