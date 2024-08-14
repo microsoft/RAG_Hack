@@ -15,7 +15,7 @@ The hackathon starts on **September 3rd** and ends on **September 13th**. Join u
 
 Register for the hackathon on the [Reactor "RAG 101" session page](https://aka.ms/raghack/register). This will register you for both the first stream and the hackathon.
 
-Visit the [Reactor hack home page](https://reactor.microsoft.com/en-us/reactor/series/s-1369/) to see all sessions!
+Visit the [Reactor series home page](https://reactor.microsoft.com/en-us/reactor/series/s-1369/) to see all sessions!
 
 ## Official Rules
 
