@@ -89,15 +89,15 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 ## RAG Code Samples
 
 
-| Repository            | Language/retriever     |
-| --------------------- | ---------------------- |
-| [azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo/) | Python, Azure AI Search |
-| [azure-search-openai-demo-java](https://github.com/Azure-Samples/azure-search-openai-demo-java/) | Java, Azure AI Search |
-| [azure-search-openai-javascript](https://github.com/Azure-Samples/azure-search-openai-javascript) | JavaScript, Azure AI Search |
-| [azure-search-openai-demo-csharp](https://github.com/Azure-Samples/azure-search-openai-demo-csharp) | C#, Azure AI Search |
-| [rag-postgres-openai-python](https://github.com/Azure-Samples/rag-postgres-openai-python/) | Python, PostgreSQL | 
-| [Cosmic-Food-RAG-app](https://github.com/Azure-Samples/Cosmic-Food-RAG-app) | Python, Cosmos DB MongoDB |
-| [contoso-chat](https://github.com/Azure-Samples/contoso-chat/) | Python, Azure AI Search, Azure AI Studio, PromptFlow |
+| Repository            | Language/retriever     | Costs |
+| --------------------- | ---------------------- | ------ |
+| [azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo/) | Python, Azure AI Search | Requires Azure deployment, follow guide for [lower cost deployment](https://github.com/Azure-Samples/azure-search-openai-demo/blob/main/docs/deploy_lowcost.md) |
+| [azure-search-openai-demo-java](https://github.com/Azure-Samples/azure-search-openai-demo-java/) | Java, Azure AI Search | Requires Azure deployment, no cost estimate available |
+| [azure-search-openai-javascript](https://github.com/Azure-Samples/azure-search-openai-javascript) | JavaScript, Azure AI Search | Requires Azure deployment, see [cost estimate](https://github.com/Azure-Samples/azure-search-openai-javascript?tab=readme-ov-file#cost-estimation)
+| [azure-search-openai-demo-csharp](https://github.com/Azure-Samples/azure-search-openai-demo-csharp) | C#, Azure AI Search | Requires Azure deployment, see [cost estimate](https://github.com/Azure-Samples/azure-search-openai-demo-csharp?tab=readme-ov-file#cost-estimation) | 
+| [rag-postgres-openai-python](https://github.com/Azure-Samples/rag-postgres-openai-python/) | Python, PostgreSQL | Can be run locally for free with Ollama, see [cost estimate for deployment]([https://github.com/Azure-Samples/rag-postgres-openai-python/](https://github.com/Azure-Samples/rag-postgres-openai-python/?tab=readme-ov-file#costs)) for Azure deployment. |
+| [Cosmic-Food-RAG-app](https://github.com/Azure-Samples/Cosmic-Food-RAG-app) | Python, Cosmos DB MongoDB | Requires Azure deployment, no cost estimate available |
+| [contoso-chat](https://github.com/Azure-Samples/contoso-chat/) | Python, Azure AI Search, Azure AI Studio, PromptFlow | Requires Azure deployment, see [cost estimate](https://github.com/Azure-Samples/contoso-chat/?tab=readme-ov-file#costs) |
 
 To find more samples, check out the following resources:
 
