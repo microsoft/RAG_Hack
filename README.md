@@ -9,7 +9,7 @@ Large language models are powerful language generators, but they don't know ever
 
 RAGHack is your opportunity to get deep into RAG and start building RAG yourself.  Across 25+ live streams, we'll show you how to build RAG apps on top of Azure AI in multiple languages (Python, Java, JS, C#) with multiple retrievers (AI Search, PostgreSQL, Azure SQL, Cosmos DB), with your own data sources! You'll learn about the most popular frameworks, like LangChain and Semantic Kernel, plus the latest technology, like agents and vision models. The possibilities are endless for what you can create... plus you can submit your hack for a chance to win exciting prizes! 🥳
 
-The hackathon starts on **September 3rd** and ends on **September 13th**. Join us!
+The streams start **September 3rd** and end **September 13th**. Hack submissions are due **September 16th**, 11:59 PM PST. Join us!
 
 ## Register
 
@@ -126,7 +126,9 @@ To find more samples, check out the following resources:
 
 ## Project Submission
 
-You may submit your project here when it's ready:
+Hack submissions are due **September 16th**, 11:59 PM PST.
+
+Submit your project here when it's ready:
 **🚀 [Project Submission](https://github.com/microsoft/RAG_Hack/issues/new?assignees=&labels=&projects=&template=project.yml&title=Project%3A+%3Cshort+description%3E)**
 
 Check out this video for step by step project submission guidance:
