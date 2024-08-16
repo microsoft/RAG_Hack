@@ -1,6 +1,6 @@
 # RAGHack: Let's build RAG applications together
 
-<img width="1599" alt="RAG AI Hack Banner (7)" src="https://github.com/user-attachments/assets/96f2b53f-be53-4fa0-98a2-6482ac76da00">
+<img width="1599" alt="RAG AI Hack Banner" src="https://github.com/user-attachments/assets/96f2b53f-be53-4fa0-98a2-6482ac76da00">
 
 
 🛠️ Build, innovate, and #Hacktogether! 🛠️
