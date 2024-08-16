@@ -151,5 +151,4 @@ Each winning team in the categories below will receive a cash prize of $500. ðŸ’
 * Best use of Cosmos DB
 * Best use of Azure SQL
 
-<!-- 
-All hackathon participants who submit an app will receive a digital badge. -->
+All hackathon participants who submit an app will receive a digital badge.
