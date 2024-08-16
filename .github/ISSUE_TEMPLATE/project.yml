@@ -1,5 +1,5 @@
 name: Project Submission
-description: "Share your project with us to get a digital badge and win exciting prizes!"
+description: "Share your project with us to get a digital badge and win prizes!"
 title: "Project: <short description>"
 body:
   - type: input
@@ -13,16 +13,32 @@ body:
     id: description
     attributes:
       label: Description
-      description: Provide a short description of your AI chat app. What data sources did you use? Did you make additional modifications to the data ingestion or prompting flows? Who can benefit from your app?
+      description: Provide a short description of your RAG app. What data sources did you use? Did you make additional modifications to the data ingestion or prompting flows? Who can benefit from your app?
     validations:
       required: true
-  - type: input
-    id: description_lan
+  - type: checkboxes
     attributes:
-      label: Language
-      description: What language does your chat app use? (English, Spanish, Portuguese, Chinese, etc.)
-    validations:
-      required: true
+      label: Technology & Languages Used
+      description: Check any technologies or languages used for your RAG app.
+      options:
+        - label: JavaScript
+          required: false
+        - label: Java
+          required: false  
+        - label: .NET
+          required: false 
+        - label: Python
+          required: false
+        - label: AI Studio
+          required: false
+        - label: AI Search
+          required: false
+        - label: PostgreSQL
+          required: false
+        - label: Cosmos DB
+          required: false
+        - label: Azure SQL
+          required: false 
   - type: input
     id: url_repo
     attributes:
@@ -49,15 +65,5 @@ body:
     attributes:
       label: Team members
       description: Comma-separated list of GitHub users who worked on this project
-    validations:
-      required: true
-  - type: dropdown
-    id: showcase
-    attributes:
-      label: Showcase Consent
-      description: Do we have your consent to highlight this project during the Project Showcase session on 2/12? Not all projects are guaranteed to be highlighted.
-      options:
-        - "No"
-        - "Yes"
     validations:
       required: true
