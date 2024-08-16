@@ -85,6 +85,14 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 | 9/12, 12:30 PM UTC    | [Create RAG applications with AI Toolkit VSCode Extension](https://hdxu.cn/zF74r) |
 | 9/14, 12:30 PM UTC    | [Intro to GraphRAG](https://hdxu.cn/moQUg) |
 
+## Office hours
+
+For additional help with your hacks, you can drop by office hours in our AI Discord channel. Here are the office hours scheduled so far:
+
+
+| Day/time              | Topic/Hosts                              |
+| --------------------- | ---------------------------------------- |
+| 9/4, 07:00 PM UTC  | [Python, AI Search, Postgres, with Pamela](https://discord.gg/YNDcrXfp?event=1273710888011956284) |
 
 ## RAG Code Samples
 
