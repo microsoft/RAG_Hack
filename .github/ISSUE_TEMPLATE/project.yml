@@ -5,7 +5,7 @@ body:
   - type: input
     id: name
     attributes:
-      label: Project name
+      label: Project Name
       description: Name of your project
     validations:
       required: true
@@ -18,7 +18,7 @@ body:
       required: true
   - type: checkboxes
     attributes:
-      label: Technology & Languages Used
+      label: Technology & Languages
       description: Check any technologies or languages used for your RAG app.
       options:
         - label: JavaScript
@@ -56,14 +56,14 @@ body:
   - type: input
     id: video
     attributes:
-      label: Project video
+      label: Project Video
       description: A short demo video of your project
     validations:
       required: true
   - type: input
     id: teammembers
     attributes:
-      label: Team members
+      label: Team Members
       description: Comma-separated list of GitHub users who worked on this project
     validations:
       required: true
