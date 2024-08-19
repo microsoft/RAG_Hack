@@ -30,61 +30,62 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 
 | Day/time              | Topic                    |
 | --------------------- | ------------------------ |
-| 9/3, 04:30 PM UTC     | [RAG 101](https://reactor.microsoft.com/reactor/events/23299/) |
-| 9/3, 06:00 PM UTC     | [RAG with .NET](https://reactor.microsoft.com/reactor/events/23333/) |
-| 9/3, 08:00 PM UTC     | [RAG with Azure AI Studio](https://reactor.microsoft.com/reactor/events/23334/) | 
-| 9/3, 10:00 PM UTC     | [RAG with Python](https://reactor.microsoft.com/reactor/events/23335/) |
-| 9/4, 03:00 AM UTC     | [RAG with Langchain4J](https://reactor.microsoft.com/reactor/events/23327/) |
-| 9/4, 03:00 AM UTC     | [RAG with LangchainJS](https://reactor.microsoft.com/reactor/events/23328/) | 
-| 9/5, 03:00 PM UTC     | [Responsible AI](https://developer.microsoft.com/reactor/events/23343/) |
-| 9/5, 05:00 PM UTC     | [RAG on Cosmos DB MongoDB](https://reactor.microsoft.com/reactor/events/23329/) | 
-| 9/5, 07:00 PM UTC     | [RAG with Azure AI Search](https://reactor.microsoft.com/reactor/events/23330/) | 
-| 9/5, 09:00 PM UTC     | [RAG on PostgreSQL](https://reactor.microsoft.com/reactor/events/23331/) |
-| 9/5, 11:00 PM UTC     | [RAG on Azure SQL](https://reactor.microsoft.com/reactor/events/23332/) |
-| 9/6, 09:00 AM UTC     | [Intro to GraphRAG](https://reactor.microsoft.com/reactor/events/23432/)
+| 9/3, 04:30 PM UTC / 09:30 AM PT    | [RAG 101](https://reactor.microsoft.com/reactor/events/23299/) |
+| 9/3, 06:00 PM UTC / 11:30 AM PT    | [RAG with .NET](https://reactor.microsoft.com/reactor/events/23333/) |
+| 9/3, 08:00 PM UTC / 01:00 PM PT    | [RAG with Azure AI Studio](https://reactor.microsoft.com/reactor/events/23334/) | 
+| 9/3, 10:00 PM UTC / 03:00 PM PT    | [RAG with Python](https://reactor.microsoft.com/reactor/events/23335/) |
+| 9/4, 03:00 PM UTC / 08:00 AM PT    | [RAG with Langchain4J](https://reactor.microsoft.com/reactor/events/23327/) |
+| 9/4, 03:00 PM UTC / 08:00 AM PT    | [RAG with LangchainJS](https://reactor.microsoft.com/reactor/events/23328/) | 
+| 9/5, 03:00 PM UTC / 08:00 AM PT    | [Responsible AI](https://developer.microsoft.com/reactor/events/23343/) |
+| 9/5, 05:00 PM UTC / 10:00 AM PT    | [RAG on Cosmos DB MongoDB](https://reactor.microsoft.com/reactor/events/23329/) | 
+| 9/5, 07:00 PM UTC / 12:00 PM PT    | [RAG with Azure AI Search](https://reactor.microsoft.com/reactor/events/23330/) | 
+| 9/5, 09:00 PM UTC / 02:00 PM PT    | [RAG on PostgreSQL](https://reactor.microsoft.com/reactor/events/23331/) |
+| 9/5, 11:00 PM UTC / 04:00 PM PT    | [RAG on Azure SQL](https://reactor.microsoft.com/reactor/events/23332/) |
+| 9/6, 04:00 PM UTC / 09:00 AM PT    | [Intro to GraphRAG](https://reactor.microsoft.com/reactor/events/23432/)
+| 9/6, 06:00 PM UTC / 11:00 AM PT    | [Multi-channel communication in RAG apps](https://developer.microsoft.com/reactor/events/23512/)
 
 #### Week 2: September 9th-13th
 
 | Day/time              | Topic                  |
 | --------------------- | ---------------------- |
-| 9/9, 03:00 PM UTC     | [RAG with Java + Semantic Kernel](https://reactor.microsoft.com/reactor/events/23337/) |
-| 9/9, 05:00 PM UTC     | [RAG with Java + Spring AI](https://reactor.microsoft.com/reactor/events/23363/) |
-| 9/9, 08:00 PM UTC     | [RAG with vision models](https://reactor.microsoft.com/reactor/events/23336/) |
-| 9/9, 11:00 PM UTC     | [Internationalization for RAG apps](https://developer.microsoft.com/reactor/events/23415/) |
-| 9/10, 03:00 PM UTC    | [Use Phi-3 to create a VSCode chat agent extension](https://developer.microsoft.com/reactor/events/23434/)
-| 9/10, 05:00 PM UTC    | [Langchain for agentic RAG](https://reactor.microsoft.com/reactor/events/23338/) |
-| 9/10, 08:00 PM UTC    | [OpenAI Code Interpreter for Java](https://reactor.microsoft.com/reactor/events/23339/) |
-| 9/10, 10:00 PM UTC    | [OpenAI Code Interpreter for Python](https://reactor.microsoft.com/reactor/events/23340/) |
-| 9/11, 03:00 PM UTC    | [Connections in Azure AI Studio](https://developer.microsoft.com/en-us/reactor/events/23427/)
-| 9/11, 05:00 PM UTC    | [Explore AutoGen concepts with AutoGen Studio](https://reactor.microsoft.com/reactor/events/23395/) |
-| 9/11, 08:00 PM UTC    | [RAG with Data Access Control](https://reactor.microsoft.com/reactor/events/23341/)
-| 9/11, 10:00 PM UTC    | [RAFT: (RAG + Fine Tuning) in Azure AI Studio](https://reactor.microsoft.com/en-us/reactor/events/23342/)
-| 9/12, 04:00 AM UTC    | [Pick the right model for the right job](https://developer.microsoft.com/en-us/reactor/events/23433/) |
-| 9/12, 08:00 PM UTC    | [Evaluating your RAG Chat App](https://reactor.microsoft.com/reactor/events/23414/) |
+| 9/9, 03:00 PM UTC / 08:00 AM PT    | [RAG with Java + Semantic Kernel](https://reactor.microsoft.com/reactor/events/23337/) |
+| 9/9, 05:00 PM UTC / 10:00 AM PT    | [RAG with Java + Spring AI](https://reactor.microsoft.com/reactor/events/23363/) |
+| 9/9, 08:00 PM UTC / 01:00 PM PT    | [RAG with vision models](https://reactor.microsoft.com/reactor/events/23336/) |
+| 9/9, 11:00 PM UTC / 04:00 PM PT     | [Internationalization for RAG apps](https://developer.microsoft.com/reactor/events/23415/) |
+| 9/10, 03:00 PM UTC / 08:00 AM PT   | [Use Phi-3 to create a VSCode chat agent extension](https://developer.microsoft.com/reactor/events/23434/)
+| 9/10, 05:00 PM UTC / 10:00 AM PT   | [Langchain for agentic RAG](https://reactor.microsoft.com/reactor/events/23338/) |
+| 9/10, 08:00 PM UTC / 01:00 PM PT   | [OpenAI Code Interpreter for Java](https://reactor.microsoft.com/reactor/events/23339/) |
+| 9/10, 10:00 PM UTC / 03:00 PM PT   | [OpenAI Code Interpreter for Python](https://reactor.microsoft.com/reactor/events/23340/) |
+| 9/11, 03:00 PM UTC / 08:00 AM PT   | [Connections in Azure AI Studio](https://developer.microsoft.com/en-us/reactor/events/23427/)
+| 9/11, 05:00 PM UTC / 10:00 AM PT   | [Explore AutoGen concepts with AutoGen Studio](https://reactor.microsoft.com/reactor/events/23395/) |
+| 9/11, 08:00 PM UTC / 01:00 PM PT   | [RAG with Data Access Control](https://reactor.microsoft.com/reactor/events/23341/)
+| 9/11, 10:00 PM UTC / 03:00 PM PT   | [RAFT: (RAG + Fine Tuning) in Azure AI Studio](https://reactor.microsoft.com/en-us/reactor/events/23342/)
+| 9/12, 04:00 AM UTC / 09:00 AM PT   | [Pick the right model for the right job](https://developer.microsoft.com/en-us/reactor/events/23433/) |
+| 9/12, 08:00 PM UTC / 01:00 PM PT   | [Evaluating your RAG Chat App](https://reactor.microsoft.com/reactor/events/23414/) |
 
 ### Spanish
 
 | Day/time              | Topic   |
 | --------------------- | ------- |
-| 9/3, 03:00 PM UTC     | [RAG: Generación Aumentada de Recuperación](https://developer.microsoft.com/reactor/events/23386/) |
-| 9/4, 03:00 PM UTC     | [RAG: Prácticas recomendadas de Azure AI Search](https://developer.microsoft.com/reactor/series/S-1379/) |
+| 9/3, 03:00 PM UTC / 08:00 AM PT    | [RAG: Generación Aumentada de Recuperación](https://developer.microsoft.com/reactor/events/23386/) |
+| 9/4, 03:00 PM UTC / 08:00 AM PT    | [RAG: Prácticas recomendadas de Azure AI Search](https://developer.microsoft.com/reactor/series/S-1379/) |
 
 ### Portuguese
 
 | Day/time              | Topic                  |
 | --------------------- | ---------------------- |
-|  9/3, 03:00 PM UTC    | [RAG (Geração Aumentada de Busca) no Azure](https://developer.microsoft.com/reactor/events/23429/)      |
-| 9/12, 03:00 PM UTC    | [Construindo RAG com Azure AI Studio e Python](https://developer.microsoft.com/reactor/events/23430/)   |
-| 9/13, 03:00 PM UTC    | [Implantando RAG com .NET e Azure Developer CLI](https://developer.microsoft.com/reactor/events/23431/) |
+|  9/3, 03:00 PM UTC / 08:00 AM PT   | [RAG (Geração Aumentada de Busca) no Azure](https://developer.microsoft.com/reactor/events/23429/)      |
+| 9/12, 03:00 PM UTC / 08:00 AM PT   | [Construindo RAG com Azure AI Studio e Python](https://developer.microsoft.com/reactor/events/23430/)   |
+| 9/13, 03:00 PM UTC / 08:00 AM PT   | [Implantando RAG com .NET e Azure Developer CLI](https://developer.microsoft.com/reactor/events/23431/) |
 
 ### Chinese
 
 | Day/time              | Topic                  |
 | --------------------- | ---------------------- |
-|  9/9, 12:30 PM UTC    | [Global RAG Hack Together](https://www.huodongxing.com/event/7767646570723) |
-| 9/10, 12:30 PM UTC    | [Create RAG apps with Azure AI SDK](https://hdxu.cn/LPHzY) |
-| 9/12, 12:30 PM UTC    | [Create RAG applications with AI Toolkit VSCode Extension](https://hdxu.cn/zF74r) |
-| 9/14, 12:30 PM UTC    | [Intro to GraphRAG](https://hdxu.cn/moQUg) |
+|  9/9, 12:30 PM UTC / 05:30 AM PT   | [Global RAG Hack Together](https://www.huodongxing.com/event/7767646570723) |
+| 9/10, 12:30 PM UTC / 05:30 AM PT   | [Create RAG apps with Azure AI SDK](https://hdxu.cn/LPHzY) |
+| 9/12, 12:30 PM UTC / 05:30 AM PT   | [Create RAG applications with AI Toolkit VSCode Extension](https://hdxu.cn/zF74r) |
+| 9/14, 12:30 PM UTC / 05:30 AM PT   | [Intro to GraphRAG](https://hdxu.cn/moQUg) |
 
 ## Office Hours
 
