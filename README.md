@@ -18,6 +18,8 @@ Register for the hackathon on the [Reactor "RAG 101" session page](https://aka.m
 
 Visit the [Reactor series home page](https://reactor.microsoft.com/en-us/reactor/series/s-1369/) to see all sessions!
 
+Introduce yourself and look for teammates [GitHub Discussions](https://github.com/microsoft/RAG_Hack/discussions/categories/general)!
+
 ## Official Rules
 
 Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICIAL_RULES.md) 📃
