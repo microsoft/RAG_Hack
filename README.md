@@ -16,7 +16,7 @@ The streams start **September 3rd** and end **September 13th**. Hack submissions
 
 Register for the hackathon on the [Reactor "RAG 101" session page](https://aka.ms/raghack/register). This will register you for both the first stream and the hackathon.
 
-Visit the [Reactor series home page](https://reactor.microsoft.com/en-us/reactor/series/s-1369/) to see all sessions!
+Visit the [Reactor series home page](https://reactor.microsoft.com/reactor/series/s-1369/) to see all sessions!
 
 Introduce yourself and look for teammates here [GitHub Discussions](https://github.com/microsoft/RAG_Hack/discussions/categories/general)!
 
@@ -58,11 +58,11 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 | 9/10, 05:00 PM UTC / 10:00 AM PT   | [Langchain for agentic RAG](https://reactor.microsoft.com/reactor/events/23338/) |
 | 9/10, 08:00 PM UTC / 01:00 PM PT   | [OpenAI Code Interpreter for Java](https://reactor.microsoft.com/reactor/events/23339/) |
 | 9/10, 10:00 PM UTC / 03:00 PM PT   | [OpenAI Code Interpreter for Python](https://reactor.microsoft.com/reactor/events/23340/) |
-| 9/11, 03:00 PM UTC / 08:00 AM PT   | [Connections in Azure AI Studio](https://developer.microsoft.com/en-us/reactor/events/23427/)
+| 9/11, 03:00 PM UTC / 08:00 AM PT   | [Connections in Azure AI Studio](https://developer.microsoft.com/reactor/events/23427/)
 | 9/11, 05:00 PM UTC / 10:00 AM PT   | [Explore AutoGen concepts with AutoGen Studio](https://reactor.microsoft.com/reactor/events/23395/) |
 | 9/11, 08:00 PM UTC / 01:00 PM PT   | [RAG with Data Access Control](https://reactor.microsoft.com/reactor/events/23341/)
-| 9/11, 10:00 PM UTC / 03:00 PM PT   | [RAFT: (RAG + Fine Tuning) in Azure AI Studio](https://reactor.microsoft.com/en-us/reactor/events/23342/)
-| 9/12, 04:00 AM UTC / 09:00 AM PT   | [Pick the right model for the right job](https://developer.microsoft.com/en-us/reactor/events/23433/) |
+| 9/11, 10:00 PM UTC / 03:00 PM PT   | [RAFT: (RAG + Fine Tuning) in Azure AI Studio](https://reactor.microsoft.com/reactor/events/23342/)
+| 9/12, 04:00 AM UTC / 09:00 AM PT   | [Pick the right model for the right job](https://developer.microsoft.com/reactor/events/23433/) |
 | 9/12, 08:00 PM UTC / 01:00 PM PT   | [Evaluating your RAG Chat App](https://reactor.microsoft.com/reactor/events/23414/) |
 
 ### Spanish
@@ -71,6 +71,7 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 | --------------------- | ------- |
 | 9/3, 03:00 PM UTC / 08:00 AM PT    | [RAG: Generación Aumentada de Recuperación](https://developer.microsoft.com/reactor/events/23386/) |
 | 9/4, 03:00 PM UTC / 08:00 AM PT    | [RAG: Prácticas recomendadas de Azure AI Search](https://developer.microsoft.com/reactor/series/S-1379/) |
+| 9/11, 03:00 PM UTC / 08:00 AM PT   | [AI Multi-Agentes: Patrones, Problemas y Soluciones](https://developer.microsoft.com/reactor/events/23580/)
 
 ### Portuguese
 
@@ -114,16 +115,16 @@ For additional help with your hacks, you can drop by Office Hours in our AI Disc
 
 To find more samples, check out the following resources:
 
-* [Azure AI samples (Python)](https://learn.microsoft.com/en-us/azure/developer/intro/azure-ai-for-developers?pivots=python)
-* [Azure AI samples (JavaScript)](https://learn.microsoft.com/en-us/azure/developer/intro/azure-ai-for-developers?pivots=javascript)
-* [Azure AI samples (Java)](https://learn.microsoft.com/en-us/azure/developer/intro/azure-ai-for-developers?pivots=java)
-* [Azure AI samples (C#)](https://learn.microsoft.com/en-us/azure/developer/intro/azure-ai-for-developers?pivots=csharp)
-* [Azure AI samples (Go)](https://learn.microsoft.com/en-us/azure/developer/intro/azure-ai-for-developers?pivots=go)
-* [Azure AI Studio Samples](https://learn.microsoft.com/en-us/collections/5pq0uompdgje8d?sharingId=ADFFF9D4AD9A0F29&WT_mc.id=aip-114567-cassieb)
+* [Azure AI samples (Python)](https://learn.microsoft.com/azure/developer/intro/azure-ai-for-developers?pivots=python)
+* [Azure AI samples (JavaScript)](https://learn.microsoft.com/azure/developer/intro/azure-ai-for-developers?pivots=javascript)
+* [Azure AI samples (Java)](https://learn.microsoft.com/azure/developer/intro/azure-ai-for-developers?pivots=java)
+* [Azure AI samples (C#)](https://learn.microsoft.com/azure/developer/intro/azure-ai-for-developers?pivots=csharp)
+* [Azure AI samples (Go)](https://learn.microsoft.com/azure/developer/intro/azure-ai-for-developers?pivots=go)
+* [Azure AI Studio Samples](https://learn.microsoft.com/collections/5pq0uompdgje8d?sharingId=ADFFF9D4AD9A0F29&WT_mc.id=aip-114567-cassieb)
 
 ## Recommended Learning Materials 📚
 
-* [AI learning and community hub](https://learn.microsoft.com/en-us/ai/)
+* [AI learning and community hub](https://learn.microsoft.com/ai/)
 * [Cloud skills challenge: Using Azure OpenAI Service](https://learn.microsoft.com/collections/20mirj4odnj6o)
 * [Generative AI for Beginners](https://aka.ms/genai-beginners)
 * [Fundamentals of Generative AI](https://learn.microsoft.com/training/paths/introduction-generative-ai/)
