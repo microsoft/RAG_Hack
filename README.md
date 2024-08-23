@@ -56,7 +56,6 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 | 9/9, 11:00 PM UTC / 04:00 PM PT     | [Internationalization for RAG apps](https://developer.microsoft.com/reactor/events/23415/) |
 | 9/10, 03:00 PM UTC / 08:00 AM PT   | [Use Phi-3 to create a VSCode chat agent extension](https://developer.microsoft.com/reactor/events/23434/)
 | 9/10, 05:00 PM UTC / 10:00 AM PT   | [Langchain for agentic RAG](https://reactor.microsoft.com/reactor/events/23338/) |
-| 9/10, 08:00 PM UTC / 01:00 PM PT   | [OpenAI Code Interpreter for Java](https://reactor.microsoft.com/reactor/events/23339/) |
 | 9/10, 10:00 PM UTC / 03:00 PM PT   | [OpenAI Code Interpreter for Python](https://reactor.microsoft.com/reactor/events/23340/) |
 | 9/11, 03:00 PM UTC / 08:00 AM PT   | [Connections in Azure AI Studio](https://developer.microsoft.com/reactor/events/23427/)
 | 9/11, 05:00 PM UTC / 10:00 AM PT   | [Explore AutoGen concepts with AutoGen Studio](https://reactor.microsoft.com/reactor/events/23395/) |
