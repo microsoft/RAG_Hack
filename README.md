@@ -154,7 +154,7 @@ Projects will be evaluated by a panel of judges, including Microsoft engineers, 
 Each winning team in the categories below will receive a cash prize of $500. 💸
 
 * Best overall
-* Best in JavaScript
+* Best in JavaScript/TypeScript
 * Best in Java
 * Best in .NET
 * Best in Python
