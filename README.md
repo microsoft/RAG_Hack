@@ -38,6 +38,7 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 | 9/3, 10:00 PM UTC / 03:00 PM PT    | [RAG with Python](https://reactor.microsoft.com/reactor/events/23335/) |
 | 9/4, 03:00 PM UTC / 08:00 AM PT    | [RAG with Langchain4J](https://reactor.microsoft.com/reactor/events/23327/) |
 | 9/4, 03:00 PM UTC / 08:00 AM PT    | [RAG with LangchainJS](https://reactor.microsoft.com/reactor/events/23328/) | 
+| 9/4, 09:00 PM UTC / 02:00 PM PT    | [Scalable RAG with CosmosDB for NoSQL](https://reactor.microsoft.com/reactor/events/23655/) |
 | 9/5, 03:00 PM UTC / 08:00 AM PT    | [Responsible AI](https://developer.microsoft.com/reactor/events/23343/) |
 | 9/5, 05:00 PM UTC / 10:00 AM PT    | [RAG on Cosmos DB MongoDB](https://reactor.microsoft.com/reactor/events/23329/) | 
 | 9/5, 07:00 PM UTC / 12:00 PM PT    | [RAG with Azure AI Search](https://reactor.microsoft.com/reactor/events/23330/) | 
