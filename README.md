@@ -120,6 +120,7 @@ To find more samples, check out the following resources:
 * [Azure AI samples (C#)](https://learn.microsoft.com/azure/developer/intro/azure-ai-for-developers?pivots=csharp)
 * [Azure AI samples (Go)](https://learn.microsoft.com/azure/developer/intro/azure-ai-for-developers?pivots=go)
 * [Azure AI Studio Samples](https://learn.microsoft.com/collections/5pq0uompdgje8d?sharingId=ADFFF9D4AD9A0F29&WT_mc.id=aip-114567-cassieb)
+* [Cosmos DB AI Samples](https://github.com/AzureCosmosDB/AISamples)
 
 ## Recommended Learning Materials 📚
 
