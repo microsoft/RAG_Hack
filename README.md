@@ -36,6 +36,7 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 | 9/3, 10:00 PM UTC / 03:00 PM PT    | [RAG with Python](https://reactor.microsoft.com/reactor/events/23335/) |
 | 9/4, 03:00 PM UTC / 08:00 AM PT    | [RAG with Langchain4J](https://reactor.microsoft.com/reactor/events/23327/) |
 | 9/4, 03:00 PM UTC / 08:00 AM PT    | [RAG with LangchainJS](https://reactor.microsoft.com/reactor/events/23328/) | 
+| 9/4, 09:00 PM UTC / 02:00 PM PT    | [Scalable RAG with CosmosDB for NoSQL](https://reactor.microsoft.com/reactor/events/23655/) |
 | 9/5, 03:00 PM UTC / 08:00 AM PT    | [Responsible AI](https://developer.microsoft.com/reactor/events/23343/) |
 | 9/5, 05:00 PM UTC / 10:00 AM PT    | [RAG on Cosmos DB MongoDB](https://reactor.microsoft.com/reactor/events/23329/) | 
 | 9/5, 07:00 PM UTC / 12:00 PM PT    | [RAG with Azure AI Search](https://reactor.microsoft.com/reactor/events/23330/) | 
@@ -54,13 +55,12 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 | 9/9, 11:00 PM UTC / 04:00 PM PT     | [Internationalization for RAG apps](https://developer.microsoft.com/reactor/events/23415/) |
 | 9/10, 03:00 PM UTC / 08:00 AM PT   | [Use Phi-3 to create a VSCode chat agent extension](https://developer.microsoft.com/reactor/events/23434/)
 | 9/10, 05:00 PM UTC / 10:00 AM PT   | [Langchain for agentic RAG](https://reactor.microsoft.com/reactor/events/23338/) |
-| 9/10, 08:00 PM UTC / 01:00 PM PT   | [OpenAI Code Interpreter for Java](https://reactor.microsoft.com/reactor/events/23339/) |
 | 9/10, 10:00 PM UTC / 03:00 PM PT   | [OpenAI Code Interpreter for Python](https://reactor.microsoft.com/reactor/events/23340/) |
-| 9/11, 03:00 PM UTC / 08:00 AM PT   | [Connections in Azure AI Studio](https://developer.microsoft.com/en-us/reactor/events/23427/)
+| 9/11, 03:00 PM UTC / 08:00 AM PT   | [Connections in Azure AI Studio](https://developer.microsoft.com/reactor/events/23427/)
 | 9/11, 05:00 PM UTC / 10:00 AM PT   | [Explore AutoGen concepts with AutoGen Studio](https://reactor.microsoft.com/reactor/events/23395/) |
 | 9/11, 08:00 PM UTC / 01:00 PM PT   | [RAG with Data Access Control](https://reactor.microsoft.com/reactor/events/23341/)
-| 9/11, 10:00 PM UTC / 03:00 PM PT   | [RAFT: (RAG + Fine Tuning) in Azure AI Studio](https://reactor.microsoft.com/en-us/reactor/events/23342/)
-| 9/12, 04:00 AM UTC / 09:00 AM PT   | [Pick the right model for the right job](https://developer.microsoft.com/en-us/reactor/events/23433/) |
+| 9/11, 10:00 PM UTC / 03:00 PM PT   | [RAFT: (RAG + Fine Tuning) in Azure AI Studio](https://reactor.microsoft.com/reactor/events/23342/)
+| 9/12, 04:00 AM UTC / 09:00 AM PT   | [Pick the right model for the right job](https://developer.microsoft.com/reactor/events/23433/) |
 | 9/12, 08:00 PM UTC / 01:00 PM PT   | [Evaluating your RAG Chat App](https://reactor.microsoft.com/reactor/events/23414/) |
 
 ### Spanish
@@ -69,6 +69,7 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 | --------------------- | ------- |
 | 9/3, 03:00 PM UTC / 08:00 AM PT    | [RAG: Generación Aumentada de Recuperación](https://developer.microsoft.com/reactor/events/23386/) |
 | 9/4, 03:00 PM UTC / 08:00 AM PT    | [RAG: Prácticas recomendadas de Azure AI Search](https://developer.microsoft.com/reactor/series/S-1379/) |
+| 9/11, 03:00 PM UTC / 08:00 AM PT   | [AI Multi-Agentes: Patrones, Problemas y Soluciones](https://developer.microsoft.com/reactor/events/23580/)
 
 ### Portuguese
 
@@ -94,8 +95,8 @@ For additional help with your hacks, you can drop by Office Hours in our AI Disc
 
 | Day/Time              | Topic/Hosts                              |
 | --------------------- | ---------------------------------------- |
-| 9/4, 07:00 PM UTC / 12:00 PM PT | [Python, AI Search, Postgres, with Pamela](https://discord.gg/YNDcrXfp?event=1273710888011956284) |
-| 9/6, 07:00 PM UTC / 12:00 PM PT | [.NET with Bruno](https://discord.gg/YNDcrXfp?event=1275538772208914442)
+| 9/4, 07:00 PM UTC / 12:00 PM PT | [Python, AI Search, Postgres, with Pamela](https://discord.gg/g3hajfTv?event=1273710888011956284) |
+| 9/6, 07:00 PM UTC / 12:00 PM PT | [.NET with Bruno](https://discord.gg/g3hajfTv?event=1275538772208914442)
 
 ## RAG Code Samples
 
@@ -103,25 +104,26 @@ For additional help with your hacks, you can drop by Office Hours in our AI Disc
 | Repository            | Language/retriever     | Costs |
 | --------------------- | ---------------------- | ------ |
 | [azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo/) | Python, Azure AI Search | Requires Azure deployment, follow guide for [lower cost deployment](https://github.com/Azure-Samples/azure-search-openai-demo/blob/main/docs/deploy_lowcost.md) |
-| [azure-search-openai-demo-java](https://github.com/Azure-Samples/azure-search-openai-demo-java/) | Java, Azure AI Search | Requires Azure deployment, no cost estimate available |
-| [azure-search-openai-javascript](https://github.com/Azure-Samples/azure-search-openai-javascript) | JavaScript, Azure AI Search | Requires Azure deployment, see [cost estimate](https://github.com/Azure-Samples/azure-search-openai-javascript?tab=readme-ov-file#cost-estimation)
+| [azure-search-openai-demo-java](https://github.com/Azure-Samples/azure-search-openai-demo-java/) | Java, Azure AI Search | Requires Azure deployment, see cost estimate for [App Service deployment](https://github.com/Azure-Samples/azure-search-openai-demo-java/blob/main/docs/app-service/README-App-Service.md#cost-estimation), [Container Apps](https://github.com/Azure-Samples/azure-search-openai-demo-java/blob/main/docs/aca/README-ACA.md#cost-estimation), [Kubernetes](https://github.com/Azure-Samples/azure-search-openai-demo-java/blob/main/docs/aks/README-AKS.md#cost-estimation)
+| [serverless-chat-langchainjs](https://github.com/Azure-Samples/serverless-chat-langchainjs) | JavaScript, CosmosDB | Can be run [locally for free with Ollama](https://github.com/Azure-Samples/serverless-chat-langchainjs?tab=readme-ov-file#run-the-sample-locally-with-ollama), see [cost estimate for Azure deployment](https://github.com/Azure-Samples/serverless-chat-langchainjs/blob/main/docs/cost.md)
 | [azure-search-openai-demo-csharp](https://github.com/Azure-Samples/azure-search-openai-demo-csharp) | C#, Azure AI Search | Requires Azure deployment, see [cost estimate](https://github.com/Azure-Samples/azure-search-openai-demo-csharp?tab=readme-ov-file#cost-estimation) | 
 | [rag-postgres-openai-python](https://github.com/Azure-Samples/rag-postgres-openai-python/) | Python, PostgreSQL | Can be run locally for free with Ollama, see [cost estimate for deployment]([https://github.com/Azure-Samples/rag-postgres-openai-python/](https://github.com/Azure-Samples/rag-postgres-openai-python/?tab=readme-ov-file#costs)) for Azure deployment. |
-| [Cosmic-Food-RAG-app](https://github.com/Azure-Samples/Cosmic-Food-RAG-app) | Python, Cosmos DB MongoDB | Requires Azure deployment, no cost estimate available |
+| [Cosmic-Food-RAG-app](https://github.com/Azure-Samples/Cosmic-Food-RAG-app) | Python, Cosmos DB MongoDB | Requires Azure deployment, see [cost estimate](https://github.com/Azure-Samples/Cosmic-Food-RAG-app?tab=readme-ov-file#cost-estimation) |
 | [contoso-chat](https://github.com/Azure-Samples/contoso-chat/) | Python, Azure AI Search, Azure AI Studio, PromptFlow | Requires Azure deployment, see [cost estimate](https://github.com/Azure-Samples/contoso-chat/?tab=readme-ov-file#costs) |
 
 To find more samples, check out the following resources:
 
-* [Azure AI samples (Python)](https://learn.microsoft.com/en-us/azure/developer/intro/azure-ai-for-developers?pivots=python)
-* [Azure AI samples (JavaScript)](https://learn.microsoft.com/en-us/azure/developer/intro/azure-ai-for-developers?pivots=javascript)
-* [Azure AI samples (Java)](https://learn.microsoft.com/en-us/azure/developer/intro/azure-ai-for-developers?pivots=java)
-* [Azure AI samples (C#)](https://learn.microsoft.com/en-us/azure/developer/intro/azure-ai-for-developers?pivots=csharp)
-* [Azure AI samples (Go)](https://learn.microsoft.com/en-us/azure/developer/intro/azure-ai-for-developers?pivots=go)
-* [Azure AI Studio Samples](https://learn.microsoft.com/en-us/collections/5pq0uompdgje8d?sharingId=ADFFF9D4AD9A0F29&WT_mc.id=aip-114567-cassieb)
+* [Azure AI samples (Python)](https://learn.microsoft.com/azure/developer/intro/azure-ai-for-developers?pivots=python)
+* [Azure AI samples (JavaScript)](https://learn.microsoft.com/azure/developer/intro/azure-ai-for-developers?pivots=javascript)
+* [Azure AI samples (Java)](https://learn.microsoft.com/azure/developer/intro/azure-ai-for-developers?pivots=java)
+* [Azure AI samples (C#)](https://learn.microsoft.com/azure/developer/intro/azure-ai-for-developers?pivots=csharp)
+* [Azure AI samples (Go)](https://learn.microsoft.com/azure/developer/intro/azure-ai-for-developers?pivots=go)
+* [Azure AI Studio Samples](https://learn.microsoft.com/collections/5pq0uompdgje8d?sharingId=ADFFF9D4AD9A0F29&WT_mc.id=aip-114567-cassieb)
+* [Cosmos DB AI Samples](https://github.com/AzureCosmosDB/AISamples)
 
 ## Recommended Learning Materials 📚
 
-* [AI learning and community hub](https://learn.microsoft.com/en-us/ai/)
+* [AI learning and community hub](https://learn.microsoft.com/ai/)
 * [Cloud skills challenge: Using Azure OpenAI Service](https://learn.microsoft.com/collections/20mirj4odnj6o)
 * [Generative AI for Beginners](https://aka.ms/genai-beginners)
 * [Fundamentals of Generative AI](https://learn.microsoft.com/training/paths/introduction-generative-ai/)
@@ -152,7 +154,7 @@ Projects will be evaluated by a panel of judges, including Microsoft engineers, 
 Each winning team in the categories below will receive a cash prize of $500. 💸
 
 * Best overall
-* Best in JavaScript
+* Best in JavaScript/TypeScript
 * Best in Java
 * Best in .NET
 * Best in Python
