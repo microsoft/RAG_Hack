@@ -14,9 +14,7 @@ The streams start **September 3rd** and end **September 13th**. Hack submissions
 
 ## Register
 
-Register for the hackathon on the [Reactor "RAG 101" session page](https://aka.ms/raghack/register). This will register you for both the first stream and the hackathon.
-
-Visit the [Reactor series home page](https://reactor.microsoft.com/en-us/reactor/series/s-1369/) to see all sessions!
+Register for the hackathon using any of the sessions linked on the [Reactor series home page](https://reactor.microsoft.com/en-us/reactor/series/s-1369/). This will register you for both the selected session and the competition.
 
 Introduce yourself and look for teammates here [GitHub Discussions](https://github.com/microsoft/RAG_Hack/discussions/categories/general)!
 
@@ -164,4 +162,4 @@ Each winning team in the categories below will receive a cash prize of $500. ðŸ’
 * Best use of Cosmos DB
 * Best use of Azure SQL
 
-All hackathon participants who submit an app will receive a digital badge.
+<!-- All hackathon participants who submit an app will receive a digital badge. -->
