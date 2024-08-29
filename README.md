@@ -14,7 +14,7 @@ The streams start **September 3rd** and end **September 13th**. Hack submissions
 
 ## Register
 
-Register for the hackathon using any of the sessions linked on the [Reactor series home page](https://reactor.microsoft.com/en-us/reactor/series/s-1369/). This will register you for both the selected session and the hackathon.
+Register for the hackathon using any of the sessions linked on the [Reactor series home page](https://reactor.microsoft.com/reactor/series/s-1369/). This will register you for both the selected session and the hackathon.
 
 Introduce yourself and look for teammates here [GitHub Discussions](https://github.com/microsoft/RAG_Hack/discussions/categories/general)!
 
