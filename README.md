@@ -31,7 +31,7 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 | Day/time              | Topic                    |
 | --------------------- | ------------------------ |
 | 9/3, 04:30 PM UTC / 09:30 AM PT    | [RAG 101](https://reactor.microsoft.com/reactor/events/23299/) |
-| 9/3, 06:00 PM UTC / 11:30 AM PT    | [RAG with .NET](https://reactor.microsoft.com/reactor/events/23333/) |
+| 9/3, 06:00 PM UTC / 11:00 AM PT    | [RAG with .NET](https://reactor.microsoft.com/reactor/events/23333/) |
 | 9/3, 08:00 PM UTC / 01:00 PM PT    | [RAG with Azure AI Studio](https://reactor.microsoft.com/reactor/events/23334/) | 
 | 9/3, 10:00 PM UTC / 03:00 PM PT    | [RAG with Python](https://reactor.microsoft.com/reactor/events/23335/) |
 | 9/4, 03:00 PM UTC / 08:00 AM PT    | [RAG with Langchain4J](https://reactor.microsoft.com/reactor/events/23327/) |
