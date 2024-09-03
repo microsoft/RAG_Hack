@@ -10,7 +10,7 @@ These Official Rules (“Rules”) govern the operation of the Hack Together: RA
 
 **2.	DEFINITIONS**
 
-In these Rules, “Microsoft,” “we,” “our,” and “us” refer to Sponsor and “you” and “yourself” refers to a Contest participant, or the parent/legal guardian of any Contest entrant who has not reached the age of majority to contractually obligate themselves in their legal place of residence. “Team” and “Teams” refers to a group of up to three (3) Contest participants working together to produce a single entry. By entering you (your parent/legal guardian if you are not the age of majority in your legal place of residence) agree to be bound by these Rules.
+In these Rules, “Microsoft,” “we,” “our,” and “us” refer to Sponsor and “you” and “yourself” refers to a Contest participant, or the parent/legal guardian of any Contest entrant who has not reached the age of majority to contractually obligate themselves in their legal place of residence. “Team” and “Teams” refers to a group of up to four (4) Contest participants working together to produce a single entry. By entering you (your parent/legal guardian if you are not the age of majority in your legal place of residence) agree to be bound by these Rules.
 
 **3.	ENTRY PERIOD**
 
@@ -20,7 +20,7 @@ To enter, you must be eighteen (18) years of age or older. If you are eighteen (
 
 The Contest is a closed promotion open only to individual entrants or Teams that meet the following criteria:
 
-- **Teams:** Each Team must be comprised of one (1) Team Leader and two (2) or more Team Members. Only one (1) Entry per Team may be submitted in the Contest; we will accept no more than one (1) Entry per Team.
+- **Teams:** Each Team must be comprised of one (1) Team Leader and two (2) or more Team Members. The Team Leader may count as one of the Team Members. Only one (1) Entry per Team may be submitted in the Contest; we will accept no more than one (1) Entry per Team.
 - **Team Leaders:** Each Team leader (the “Team Leader”) must be, as of September 3, 2024, eighteen (18) years of age or older. One (1) Team Leader may lead multiple Teams.
 - **Team Members:** Each student member of a Team (“Team Member”) must be, as of September 3, 2024, eighteen (18) years of age or older. Each Team Member may only be a member of one (1) Team.
 
