@@ -34,9 +34,9 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 | 9/3, 06:00 PM UTC / 11:00 AM PT    | [RAG with .NET](https://reactor.microsoft.com/reactor/events/23333/) [(Resources)](https://github.com/microsoft/RAG_Hack/discussions/25) |
 | 9/3, 08:00 PM UTC / 01:00 PM PT    | [RAG with Azure AI Studio](https://reactor.microsoft.com/reactor/events/23334/) [(Resources)](https://github.com/microsoft/RAG_Hack/discussions/26) |
 | 9/3, 10:00 PM UTC / 03:00 PM PT    | [RAG with Python](https://reactor.microsoft.com/reactor/events/23335/) [(Resources)](https://github.com/microsoft/RAG_Hack/discussions/27) |
-| 9/4, 03:00 PM UTC / 08:00 AM PT    | [RAG with Langchain4J](https://reactor.microsoft.com/reactor/events/23327/) |
-| 9/4, 03:00 PM UTC / 08:00 AM PT    | [RAG with LangchainJS](https://reactor.microsoft.com/reactor/events/23328/) |
-| 9/4, 09:00 PM UTC / 02:00 PM PT    | [Scalable RAG with CosmosDB for NoSQL](https://reactor.microsoft.com/reactor/events/23655/) |
+| 9/4, 03:00 PM UTC / 08:00 AM PT    | [RAG with Langchain4J](https://reactor.microsoft.com/reactor/events/23327/) [(Resources)](https://github.com/microsoft/RAG_Hack/discussions/38) |
+| 9/4, 03:00 PM UTC / 08:00 AM PT    | [RAG with LangchainJS](https://reactor.microsoft.com/reactor/events/23328/) [(Resources)](https://github.com/microsoft/RAG_Hack/discussions/40) |
+| 9/4, 09:00 PM UTC / 02:00 PM PT    | [Scalable RAG with CosmosDB for NoSQL](https://reactor.microsoft.com/reactor/events/23655/) [(Resources)](https://github.com/microsoft/RAG_Hack/discussions/41) |
 | 9/5, 03:00 PM UTC / 08:00 AM PT    | [Responsible AI](https://developer.microsoft.com/reactor/events/23343/) |
 | 9/5, 05:00 PM UTC / 10:00 AM PT    | [RAG on Cosmos DB MongoDB](https://reactor.microsoft.com/reactor/events/23329/) |
 | 9/5, 07:00 PM UTC / 12:00 PM PT    | [RAG with Azure AI Search](https://reactor.microsoft.com/reactor/events/23330/) |
@@ -83,10 +83,10 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 
 | Day/time              | Topic                  |
 | --------------------- | ---------------------- |
-|  9/3, 12:30 PM UTC / 05:30 AM PT   | [Global RAG Hack Together](https://www.huodongxing.com/event/7767646570723) |
-| 9/10, 12:30 PM UTC / 05:30 AM PT   | [Create RAG apps with Azure AI SDK](https://hdxu.cn/LPHzY) |
-| 9/12, 12:30 PM UTC / 05:30 AM PT   | [Create RAG applications with AI Toolkit VSCode Extension](https://hdxu.cn/zF74r) |
-| 9/14, 12:30 PM UTC / 05:30 AM PT   | [Intro to GraphRAG](https://hdxu.cn/moQUg) |
+|  9/3, 12:30 PM UTC / 05:30 AM PT   | [Global RAG Hack Together](https://www.huodongxing.com/event/7767646570723) [(Resources)](https://github.com/microsoft/RAG_Hack/discussions/42) |
+| 9/10, 12:30 PM UTC / 05:30 AM PT   | [Create RAG apps with Azure AI SDK](https://hdxu.cn/LPHzY) [(Resources)](https://github.com/microsoft/RAG_Hack/discussions/43) |
+| 9/12, 12:30 PM UTC / 05:30 AM PT   | [Create RAG applications with AI Toolkit VSCode Extension](https://hdxu.cn/zF74r) [(Resources)](https://github.com/microsoft/RAG_Hack/discussions/44) |
+| 9/14, 12:30 PM UTC / 05:30 AM PT   | [Intro to GraphRAG](https://hdxu.cn/moQUg) [(Resources)](https://github.com/microsoft/RAG_Hack/discussions/45) |
 
 ## Office Hours
 
