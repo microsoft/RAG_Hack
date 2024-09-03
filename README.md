@@ -83,7 +83,7 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 
 | Day/time              | Topic                  |
 | --------------------- | ---------------------- |
-|  9/9, 12:30 PM UTC / 05:30 AM PT   | [Global RAG Hack Together](https://www.huodongxing.com/event/7767646570723) |
+|  9/3, 12:30 PM UTC / 05:30 AM PT   | [Global RAG Hack Together](https://www.huodongxing.com/event/7767646570723) |
 | 9/10, 12:30 PM UTC / 05:30 AM PT   | [Create RAG apps with Azure AI SDK](https://hdxu.cn/LPHzY) |
 | 9/12, 12:30 PM UTC / 05:30 AM PT   | [Create RAG applications with AI Toolkit VSCode Extension](https://hdxu.cn/zF74r) |
 | 9/14, 12:30 PM UTC / 05:30 AM PT   | [Intro to GraphRAG](https://hdxu.cn/moQUg) |
