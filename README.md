@@ -37,11 +37,11 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 | 9/4, 03:00 PM UTC / 08:00 AM PT    | [RAG with Langchain4J](https://reactor.microsoft.com/reactor/events/23327/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/38) |
 | 9/4, 03:00 PM UTC / 08:00 AM PT    | [RAG with LangchainJS](https://reactor.microsoft.com/reactor/events/23328/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/40) |
 | 9/4, 09:00 PM UTC / 02:00 PM PT    | [Scalable RAG with CosmosDB for NoSQL](https://reactor.microsoft.com/reactor/events/23655/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/41) |
-| 9/5, 03:00 PM UTC / 08:00 AM PT    | [Responsible AI](https://developer.microsoft.com/reactor/events/23343/) | Link |
-| 9/5, 05:00 PM UTC / 10:00 AM PT    | [RAG on Cosmos DB MongoDB](https://reactor.microsoft.com/reactor/events/23329/) | Link |
-| 9/5, 07:00 PM UTC / 12:00 PM PT    | [RAG with Azure AI Search](https://reactor.microsoft.com/reactor/events/23330/) | Link |
-| 9/5, 09:00 PM UTC / 02:00 PM PT    | [RAG on PostgreSQL](https://reactor.microsoft.com/reactor/events/23331/) | Link |
-| 9/5, 11:00 PM UTC / 04:00 PM PT    | [RAG on Azure SQL](https://reactor.microsoft.com/reactor/events/23332/) | Link |
+| 9/5, 03:00 PM UTC / 08:00 AM PT    | [Responsible AI](https://developer.microsoft.com/reactor/events/23343/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/49) |
+| 9/5, 05:00 PM UTC / 10:00 AM PT    | [RAG on Cosmos DB MongoDB](https://reactor.microsoft.com/reactor/events/23329/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/48) |
+| 9/5, 07:00 PM UTC / 12:00 PM PT    | [RAG with Azure AI Search](https://reactor.microsoft.com/reactor/events/23330/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/50) |
+| 9/5, 09:00 PM UTC / 02:00 PM PT    | [RAG on PostgreSQL](https://reactor.microsoft.com/reactor/events/23331/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/52) |
+| 9/5, 11:00 PM UTC / 04:00 PM PT    | [RAG on Azure SQL Server](https://reactor.microsoft.com/reactor/events/23332/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/53) |
 | 9/6, 04:00 PM UTC / 09:00 AM PT    | [Intro to GraphRAG](https://reactor.microsoft.com/reactor/events/23432/) | Link |
 | 9/6, 06:00 PM UTC / 11:00 AM PT    | [Multi-channel communication in RAG apps](https://developer.microsoft.com/reactor/events/23512/) | Link |
 
