@@ -68,7 +68,7 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 | Day/time              | Topic   | Resources                |
 | --------------------- | ------- | ------------------------ |
 | 9/3, 03:00 PM UTC / 08:00 AM PT    | [RAG: Generación Aumentada de Recuperación](https://developer.microsoft.com/reactor/events/23386/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/31) |
-| 9/4, 03:00 PM UTC / 08:00 AM PT    | [RAG: Prácticas recomendadas de Azure AI Search](https://developer.microsoft.com/reactor/series/S-1379/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/32) |
+| 9/4, 03:00 PM UTC / 08:00 AM PT    | [RAG: Prácticas recomendadas de Azure AI Search](https://developer.microsoft.com/reactor/events/23386/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/32) |
 | 9/11, 03:00 PM UTC / 08:00 AM PT   | [AI Multi-Agentes: Patrones, Problemas y Soluciones](https://developer.microsoft.com/reactor/events/23580/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/33) |
 
 ### Portuguese
