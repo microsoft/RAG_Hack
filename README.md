@@ -28,7 +28,7 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 
 #### Week 1: September 3rd-6th
 
-| Day/time              | Topic                    | Resources                |
+| Day/Time              | Topic                    | Resources                |
 | --------------------- | ------------------------ | ------------------------ |
 | 9/3, 04:30 PM UTC / 09:30 AM PT    | [RAG 101](https://reactor.microsoft.com/reactor/events/23299/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/24) |
 | 9/3, 06:00 PM UTC / 11:00 AM PT    | [RAG with .NET](https://reactor.microsoft.com/reactor/events/23333/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/25) |
@@ -47,7 +47,7 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 
 #### Week 2: September 9th-13th
 
-| Day/time              | Topic                  | Resources                |
+| Day/Time              | Topic                  | Resources                |
 | --------------------- | ---------------------- | ------------------------ |
 | 9/9, 03:00 PM UTC / 08:00 AM PT    | [RAG with Java + Semantic Kernel](https://reactor.microsoft.com/reactor/events/23337/) | Link |
 | 9/9, 05:00 PM UTC / 10:00 AM PT    | [RAG with Java + Spring AI](https://reactor.microsoft.com/reactor/events/23363/) | Link |
@@ -65,7 +65,7 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 
 ### Spanish
 
-| Day/time              | Topic   | Resources                |
+| Day/Time              | Topic   | Resources                |
 | --------------------- | ------- | ------------------------ |
 | 9/3, 03:00 PM UTC / 08:00 AM PT    | [RAG: Generación Aumentada de Recuperación](https://developer.microsoft.com/reactor/events/23386/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/31) |
 | 9/4, 03:00 PM UTC / 08:00 AM PT    | [RAG: Prácticas recomendadas de Azure AI Search](https://developer.microsoft.com/reactor/events/23386/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/32) |
@@ -73,7 +73,7 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 
 ### Portuguese
 
-| Day/time              | Topic                  | Resources                |
+| Day/Time              | Topic                  | Resources                |
 | --------------------- | ---------------------- | ------------------------ |
 |  9/3, 03:00 PM UTC / 08:00 AM PT   | [RAG (Geração Aumentada de Busca) no Azure](https://developer.microsoft.com/reactor/events/23429/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/28) |
 | 9/12, 03:00 PM UTC / 08:00 AM PT   | [Construindo RAG com Azure AI Studio e Python](https://developer.microsoft.com/reactor/events/23430/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/29) |
@@ -81,7 +81,7 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 
 ### Chinese
 
-| Day/time              | Topic                  | Resources                |
+| Day/Time              | Topic                  | Resources                |
 | --------------------- | ---------------------- | ------------------------ |
 |  9/3, 12:30 PM UTC / 05:30 AM PT   | [Global RAG Hack Together](https://www.huodongxing.com/event/7767646570723) | [Link](https://github.com/microsoft/RAG_Hack/discussions/42) |
 | 9/10, 12:30 PM UTC / 05:30 AM PT   | [Create RAG apps with Azure AI SDK](https://hdxu.cn/LPHzY) | [Link](https://github.com/microsoft/RAG_Hack/discussions/43) |
@@ -101,7 +101,7 @@ For additional help with your hacks, you can drop by Office Hours in our AI Disc
 ## RAG Code Samples
 
 
-| Repository            | Language/retriever     | Costs |
+| Repository            | Language/Retriever     | Costs |
 | --------------------- | ---------------------- | ------ |
 | [azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo/) | Python, Azure AI Search | Requires Azure deployment, follow guide for [lower cost deployment](https://github.com/Azure-Samples/azure-search-openai-demo/blob/main/docs/deploy_lowcost.md) |
 | [azure-search-openai-demo-java](https://github.com/Azure-Samples/azure-search-openai-demo-java/) | Java, Azure AI Search | Requires Azure deployment, see cost estimate for [App Service deployment](https://github.com/Azure-Samples/azure-search-openai-demo-java/blob/main/docs/app-service/README-App-Service.md#cost-estimation), [Container Apps](https://github.com/Azure-Samples/azure-search-openai-demo-java/blob/main/docs/aca/README-ACA.md#cost-estimation), [Kubernetes](https://github.com/Azure-Samples/azure-search-openai-demo-java/blob/main/docs/aks/README-AKS.md#cost-estimation) |
