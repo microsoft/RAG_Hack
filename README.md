@@ -110,6 +110,7 @@ For additional help with your hacks, you can drop by Office Hours in our AI Disc
 | [rag-postgres-openai-python](https://github.com/Azure-Samples/rag-postgres-openai-python/) | Python, PostgreSQL | Can be run locally for free with Ollama, see [cost estimate for deployment]([https://github.com/Azure-Samples/rag-postgres-openai-python/](https://github.com/Azure-Samples/rag-postgres-openai-python/?tab=readme-ov-file#costs)) for Azure deployment. |
 | [Cosmic-Food-RAG-app](https://github.com/Azure-Samples/Cosmic-Food-RAG-app) | Python, Cosmos DB MongoDB | Requires Azure deployment, see [cost estimate](https://github.com/Azure-Samples/Cosmic-Food-RAG-app?tab=readme-ov-file#cost-estimation) |
 | [contoso-chat](https://github.com/Azure-Samples/contoso-chat/) | Python, Azure AI Search, Azure AI Studio, PromptFlow | Requires Azure deployment, see [cost estimate](https://github.com/Azure-Samples/contoso-chat/?tab=readme-ov-file#costs) |
+| [azure-sql-db-session-recommender-v2](https://github.com/Azure-Samples/azure-sql-db-session-recommender-v2) | C#, Azure SQL| Can be run locally for free with Azure SQL Database [free tier](https://aka.ms/freedboffer) |
 
 To find more samples, check out the following resources:
 
@@ -120,6 +121,8 @@ To find more samples, check out the following resources:
 * [Azure AI samples (Go)](https://learn.microsoft.com/azure/developer/intro/azure-ai-for-developers?pivots=go)
 * [Azure AI Studio Samples](https://learn.microsoft.com/collections/5pq0uompdgje8d?sharingId=ADFFF9D4AD9A0F29&WT_mc.id=aip-114567-cassieb)
 * [Cosmos DB AI Samples](https://github.com/AzureCosmosDB/AISamples)
+* [Azure SQL DB AI Samples](https://aka.ms/SQLAI)
+
 
 ## Recommended Learning Materials 📚
 
