@@ -49,10 +49,10 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 
 | Day/Time              | Topic                  | Resources                |
 | --------------------- | ---------------------- | ------------------------ |
-| 9/9, 03:00 PM UTC / 08:00 AM PT    | [RAG with Java + Semantic Kernel](https://reactor.microsoft.com/reactor/events/23337/) | Link |
-| 9/9, 05:00 PM UTC / 10:00 AM PT    | [RAG with Java + Spring AI](https://reactor.microsoft.com/reactor/events/23363/) | Link |
-| 9/9, 08:00 PM UTC / 01:00 PM PT    | [RAG with vision models](https://reactor.microsoft.com/reactor/events/23336/) | Link |
-| 9/9, 11:00 PM UTC / 04:00 PM PT    | [Internationalization for RAG apps](https://developer.microsoft.com/reactor/events/23415/) | Link |
+| 9/9, 03:00 PM UTC / 08:00 AM PT    | [RAG with Java + Semantic Kernel](https://reactor.microsoft.com/reactor/events/23337/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/62) |
+| 9/9, 05:00 PM UTC / 10:00 AM PT    | [RAG with Java + Spring AI](https://reactor.microsoft.com/reactor/events/23363/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/63) |
+| 9/9, 08:00 PM UTC / 01:00 PM PT    | [RAG with vision models](https://reactor.microsoft.com/reactor/events/23336/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/64) |
+| 9/9, 11:00 PM UTC / 04:00 PM PT    | [Internationalization for RAG apps](https://developer.microsoft.com/reactor/events/23415/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/65) |
 | 9/10, 03:00 PM UTC / 08:00 AM PT   | [Use Phi-3 to create a VSCode chat agent extension](https://developer.microsoft.com/reactor/events/23434/) | Link |
 | 9/10, 05:00 PM UTC / 10:00 AM PT   | [Langchain for agentic RAG](https://reactor.microsoft.com/reactor/events/23338/) | Link |
 | 9/10, 10:00 PM UTC / 03:00 PM PT   | [OpenAI Code Interpreter for Python](https://reactor.microsoft.com/reactor/events/23340/) | Link |
