@@ -95,8 +95,8 @@ For additional help with your hacks, you can drop by Office Hours in our AI Disc
 
 | Day/Time              | Topic/Hosts                              |
 | --------------------- | ---------------------------------------- |
-| 9/4, 07:00 PM UTC / 12:00 PM PT | [Python, AI Search, Postgres, with Pamela](https://discord.gg/g3hajfTv?event=1273710888011956284) |
-| 9/6, 07:00 PM UTC / 12:00 PM PT | [.NET with Bruno](https://discord.gg/T2eewYxR?event=1275538772208914442) |
+| 9/4, 07:00 PM UTC / 12:00 PM PT | [Python, AI Search, Postgres, with Pamela](https://aka.ms/raghack/discord/python-aisearch-postgres) |
+| 9/6, 07:00 PM UTC / 12:00 PM PT | [.NET with Bruno](https://aka.ms/raghack/discord/net) |
 
 ## RAG Code Samples
 
