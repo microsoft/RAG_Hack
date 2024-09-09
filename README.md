@@ -53,9 +53,9 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 | 9/9, 05:00 PM UTC / 10:00 AM PT    | [RAG with Java + Spring AI](https://reactor.microsoft.com/reactor/events/23363/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/63) |
 | 9/9, 08:00 PM UTC / 01:00 PM PT    | [RAG with vision models](https://reactor.microsoft.com/reactor/events/23336/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/64) |
 | 9/9, 11:00 PM UTC / 04:00 PM PT    | [Internationalization for RAG apps](https://developer.microsoft.com/reactor/events/23415/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/65) |
-| 9/10, 03:00 PM UTC / 08:00 AM PT   | [Use Phi-3 to create a VSCode chat agent extension](https://developer.microsoft.com/reactor/events/23434/) | Link |
-| 9/10, 05:00 PM UTC / 10:00 AM PT   | [Langchain for agentic RAG](https://reactor.microsoft.com/reactor/events/23338/) | Link |
-| 9/10, 10:00 PM UTC / 03:00 PM PT   | [OpenAI Code Interpreter for Python](https://reactor.microsoft.com/reactor/events/23340/) | Link |
+| 9/10, 03:00 PM UTC / 08:00 AM PT   | [Use Phi-3 to create a VSCode chat agent extension](https://developer.microsoft.com/reactor/events/23434/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/69) |
+| 9/10, 05:00 PM UTC / 10:00 AM PT   | [Agentic RAG with Langchain](https://reactor.microsoft.com/reactor/events/23338/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/70) |
+| 9/10, 10:00 PM UTC / 03:00 PM PT   | [Build an OpenAI code interpreter for Python](https://reactor.microsoft.com/reactor/events/23340/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/71) |
 | 9/11, 03:00 PM UTC / 08:00 AM PT   | [Connections in Azure AI Studio](https://developer.microsoft.com/reactor/events/23427/) | Link |
 | 9/11, 05:00 PM UTC / 10:00 AM PT   | [Explore AutoGen concepts with AutoGen Studio](https://reactor.microsoft.com/reactor/events/23395/) | Link |
 | 9/11, 08:00 PM UTC / 01:00 PM PT   | [RAG with Data Access Control](https://reactor.microsoft.com/reactor/events/23341/) | Link |
