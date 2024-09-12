@@ -60,8 +60,8 @@ Read the [official rules](https://github.com/microsoft/RAG_Hack/blob/main/OFFICI
 | 9/11, 05:00 PM UTC / 10:00 AM PT   | [Explore AutoGen concepts with AutoGen Studio](https://reactor.microsoft.com/reactor/events/23395/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/73) |
 | 9/11, 08:00 PM UTC / 01:00 PM PT   | [RAG with Data Access Control](https://reactor.microsoft.com/reactor/events/23341/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/74) |
 | 9/11, 10:00 PM UTC / 03:00 PM PT   | [RAFT: (RAG + Fine Tuning) in Azure AI Studio](https://reactor.microsoft.com/reactor/events/23342/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/75) |
-| 9/12, 04:00 AM UTC / 09:00 AM PT   | [Pick the right model for the right job](https://developer.microsoft.com/reactor/events/23433/) | Link |
-| 9/12, 08:00 PM UTC / 01:00 PM PT   | [Evaluating your RAG Chat App](https://reactor.microsoft.com/reactor/events/23414/) | Link |
+| 9/12, 04:00 AM UTC / 09:00 AM PT   | [Pick the right model for the right job](https://developer.microsoft.com/reactor/events/23433/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/77) |
+| 9/12, 08:00 PM UTC / 01:00 PM PT   | [Evaluating your RAG Chat App](https://reactor.microsoft.com/reactor/events/23414/) | [Link](https://github.com/microsoft/RAG_Hack/discussions/78) |
 
 ### Spanish
 
