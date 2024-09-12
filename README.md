@@ -147,12 +147,12 @@ Hack submissions are due **September 16th**, 11:59 PM PST.
 Submit your project here when it's ready:
 **🚀 [Project Submission](https://github.com/microsoft/RAG_Hack/issues/new?assignees=&labels=&projects=&template=project.yml&title=Project%3A+%3Cshort+description%3E)**
 
-Check out this video for step by step project submission guidance:
+Check out this video for step-by-step project submission guidance:
 **[Project Submission Video](https://github.com/microsoft/hack-together-teams/assets/3199282/572ea387-61ec-4b77-9885-23b5b2bd39bd)**
 
 ## Prizes and Categories 🏅
 
-Projects will be evaluated by a panel of judges, including Microsoft engineers, product managers, and developer advocates. Judging criteria will include innovation, impact, technical usability, and alignment with corresponding hackathon category.
+Projects will be evaluated by a panel of judges, including Microsoft engineers, product managers, and developer advocates. Judging criteria will include innovation, impact, technical usability, and alignment with the corresponding hackathon category.
 
 Each winning team in the categories below will receive a cash prize of $500. 💸
 
