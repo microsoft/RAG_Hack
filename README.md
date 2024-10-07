@@ -156,15 +156,15 @@ Projects will be evaluated by a panel of judges, including Microsoft engineers, 
 
 Each winning team in the categories below will receive a cash prize of $500. 💸
 
-* Best overall
-* Best in JavaScript/TypeScript
-* Best in Java
-* Best in .NET
+* Best Overall
+* Best in PostgreSQL
+* Best in Azure SQL
+* Best in Cosmos DB
+* Best in Azure AI Search
 * Best in Python
-* Best use of AI Studio
-* Best use of AI Search
-* Best use of PostgreSQL
-* Best use of Cosmos DB
-* Best use of Azure SQL
+* Best in .NET
+* Best in Java
+* Best in JavaScript/TypeScript
+* Best in Azure AI Studio
 
-All hackathon participants who submit a project will receive a digital badge (sometime in October).
+All hackathon participants who submit a project will receive a digital badge.
