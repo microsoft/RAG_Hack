@@ -168,3 +168,10 @@ Each winning team in the categories below will receive a cash prize of $500. ðŸ’
 * Best in Azure AI Studio
 
 All hackathon participants who submit a project will receive a digital badge.
+
+## Judges
+
+Thank you to our judges for all their help with evaluating the projects and selecting the top entries:
+
+Matt Gotteiner, Farzad Sunavala, Davide Mauri, Muazma Zahid, Jay Gordon, James Codella, Khelan Modi, Joshua Johnson, Renee Noble, Sarah Kaiser, Santhosh Reddy Vootukuri, Rory Preddy, Cole Johnson, Julien Dubois, Glaucia Lemos, Yohan Lasorsa, Milan Kaur, Luis Quintanilla, Bruno Capuano, Josh Oh, Pamela Fox, Daisy Chaussee
+
