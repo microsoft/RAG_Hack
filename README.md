@@ -123,6 +123,18 @@ To find more samples, check out the following resources:
 * [Cosmos DB AI Samples](https://github.com/AzureCosmosDB/AISamples)
 * [Azure SQL DB AI Samples](https://aka.ms/SQLAI)
 
+## Integration of RAG Functionality into Magiclink-Dashboard
+
+The RAG functionality from the Justitia AI repository has been successfully integrated into the `magiclink-dashboard` app. The integration has been implemented on the `ragsearch` subpage of the `magiclink-dashboard` app, ensuring that the appearance and design of the app are maintained. The rest of the functionality of the `magiclink-dashboard` app remains unchanged.
+
+### Steps to Use the RAG Functionality
+
+1. Navigate to the `ragsearch` subpage of the `magiclink-dashboard` app.
+2. Enter your question about Swiss legal regulations in the input field.
+3. Click the "Search" button to retrieve and generate answers based on Swiss legal regulations.
+4. The answer will be displayed in the answer section, with sources cited for transparency and traceability.
+
+For more details, refer to the `magiclink-dashboard` repository: [magiclink-dashboard](https://github.com/audioreworkvisions/magiclink-dashboard)
 
 ## Recommended Learning Materials 📚
 
@@ -174,4 +186,3 @@ All hackathon participants who submit a project will receive a digital badge.
 Thank you to our judges for all their help with evaluating the projects and selecting the top entries:
 
 Matt Gotteiner, Farzad Sunavala, Davide Mauri, Muazma Zahid, Jay Gordon, James Codella, Khelan Modi, Joshua Johnson, Renee Noble, Sarah Kaiser, Santhosh Reddy Vootukuri, Rory Preddy, Cole Johnson, Julien Dubois, Glaucia Lemos, Yohan Lasorsa, Milan Kaur, Luis Quintanilla, Bruno Capuano, Josh Oh, Pamela Fox, Daisy Chaussee
-

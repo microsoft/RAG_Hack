@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RAG Search</title>
+    <link rel="stylesheet" href="{% static 'css/ragsearch.css' %}">
+</head>
+<body>
+    <div class="container">
+        <h1>RAG Search</h1>
+        <form id="ragsearch-form">
+            <label for="question">Enter your question about Swiss legal regulations:</label>
+            <input type="text" id="question" name="question" required>
+            <button type="submit">Search</button>
+        </form>
+        <div id="answer-section">
+            <h2>Answer:</h2>
+            <p id="answer"></p>
+        </div>
+    </div>
+    <script>
+        document.getElementById('ragsearch-form').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const question = document.getElementById('question').value;
+            fetch('/ragsearch', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ question: question })
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('answer').textContent = data.answer;
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+        });
+    </script>
+</body>
+</html>
